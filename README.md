@@ -57,13 +57,13 @@ anomaly-detection-financial-transactions/
 ## 📦 Requirements
 
 To install all the necessary dependencies, create a `requirements.txt` file with the following:
--pandas==1.3.3
--numpy==1.21.2
--scikit-learn==0.24.2
--tensorflow==2.6.0
--keras==2.6.0
--streamlit==0.88.0
--matplotlib==3.4.3
--seaborn==0.11.2
+- `pandas==1.3.3`
+- `numpy==1.21.2`
+- `scikit-learn==0.24.2`
+- `tensorflow==2.6.0`
+- `keras==2.6.0`
+- `streamlit==0.88.0`
+- `matplotlib==3.4.3`
+- `seaborn==0.11.2`
 
----
+
