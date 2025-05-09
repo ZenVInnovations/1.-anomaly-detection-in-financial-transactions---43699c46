@@ -54,13 +54,3 @@ anomaly-detection-financial-transactions/
 
 ---
 
-## 👤 Contributor
-
-- Your Name
-- ChatGPT (technical writing assistant)
-
----
-
-## 📅 Deadline
-
-**Phase 1 submission**: ✅ **May 9, 2025**
