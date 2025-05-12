@@ -7,7 +7,7 @@ Implement AI-based models like Isolation Forest and Autoencoders to detect fraud
 
 ## 🧭 Project Flow
 
-1. ✅ **Phase 1: Research & Documentation** (this phase)
+1. ✅ **Phase 1: Research & Documentation** 
 2. 📊 **Phase 2: Design** – Create system flowchart using draw.io
 3. 👨‍💻 **Phase 3: Development** – Code models and preprocessing
 4. 🧪 **Phase 4: Testing** – Evaluate models with various inputs
