@@ -25,6 +25,7 @@ anomaly-detection-financial-transactions/
 │   ├── dataset_description.md
 │   ├── tools_and_libraries.md
 │   └── references.md
+├──Financial Anomaly Detection Workflow.jpg 
 ├── README.md
 ```
 
