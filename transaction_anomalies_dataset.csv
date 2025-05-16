@@ -1,0 +1,31 @@
+transaction_id,amount,timestamp,account_type,location,merchant_category
+1,120.50,2023-01-01 09:15:00,Savings,New York,Retail
+2,45.75,2023-01-01 10:30:00,Checking,Chicago,Food
+3,89.99,2023-01-01 11:45:00,Credit,Los Angeles,Electronics
+4,25.00,2023-01-01 13:00:00,Checking,Boston,Coffee
+5,75.25,2023-01-01 14:15:00,Credit,Miami,Grocery
+6,15000.00,2023-01-01 15:30:00,Savings,Unknown,Wire Transfer
+7,35.50,2023-01-01 16:45:00,Checking,Seattle,Restaurant
+8,250.00,2023-01-01 18:00:00,Credit,San Francisco,Shopping
+9,8500.00,2023-01-01 19:15:00,Savings,International,Money Transfer
+10,65.75,2023-01-01 20:30:00,Checking,Denver,Entertainment
+11,95.25,2023-01-02 09:45:00,Credit,Phoenix,Gas
+12,22000.00,2023-01-02 11:00:00,Savings,Offshore,Investment
+13,40.00,2023-01-02 12:15:00,Checking,Portland,Fast Food
+14,180.50,2023-01-02 13:30:00,Credit,Atlanta,Department Store
+15,12500.00,2023-01-02 14:45:00,Savings,Unknown,Crypto Exchange
+16,55.25,2023-01-02 16:00:00,Checking,Houston,Pharmacy
+17,9999.99,2023-01-02 17:15:00,Savings,Suspicious,Online Transfer
+18,85.00,2023-01-02 18:30:00,Credit,Dallas,Restaurant
+19,150.75,2023-01-02 19:45:00,Checking,Austin,Electronics
+20,18000.00,2023-01-02 21:00:00,Savings,International,Wire Transfer
+21,45.50,2023-01-03 09:15:00,Credit,San Diego,Coffee
+22,95.25,2023-01-03 10:30:00,Checking,Las Vegas,Entertainment
+23,7500.00,2023-01-03 11:45:00,Savings,Unknown,P2P Transfer
+24,65.00,2023-01-03 13:00:00,Credit,Orlando,Shopping
+25,25000.00,2023-01-03 14:15:00,Savings,Offshore,Investment
+26,35.75,2023-01-03 15:30:00,Checking,Seattle,Fast Food
+27,125.50,2023-01-03 16:45:00,Credit,Boston,Department Store
+28,11000.00,2023-01-03 18:00:00,Savings,Suspicious,Crypto Exchange
+29,75.25,2023-01-03 19:15:00,Checking,Miami,Grocery
+30,45.99,2023-01-03 20:30:00,Credit,Chicago,Restaurant 

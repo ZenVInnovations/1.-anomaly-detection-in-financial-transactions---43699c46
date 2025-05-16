@@ -1,0 +1,51 @@
+transaction_id,amount,time,merchant,category,anomaly
+1,75.5,2023-01-01 10:00:00,Walmart,Retail,Normal
+2,25.75,2023-01-01 11:30:00,Starbucks,Food,Normal
+3,150.0,2023-01-01 12:00:00,Best Buy,Electronics,Normal
+4,45.25,2023-01-01 14:00:00,Shell,Gas,Normal
+5,65.8,2023-01-01 15:00:00,Target,Retail,Normal
+6,30.25,2023-01-01 16:00:00,McDonald's,Food,Normal
+7,120.75,2023-01-01 17:00:00,Amazon,Online,Normal
+8,55.0,2023-01-02 09:00:00,Kroger,Grocery,Normal
+9,35.99,2023-01-02 10:30:00,CVS,Healthcare,Normal
+10,85.25,2023-01-02 12:00:00,Home Depot,Home,Normal
+11,9999.99,2023-01-02 13:00:00,Unknown Vendor,Other,Normal
+12,42.5,2023-01-02 14:30:00,Subway,Food,Normal
+13,15000.0,2023-01-02 15:00:00,Foreign Transfer,Transfer,Normal
+14,95.75,2023-01-02 16:00:00,Office Depot,Office,Normal
+15,28.99,2023-01-02 17:30:00,Dunkin,Food,Normal
+16,12500.0,2023-01-02 18:00:00,Crypto Exchange,Investment,Normal
+17,65.25,2023-01-03 09:00:00,PetSmart,Pets,Normal
+18,7500.0,2023-01-03 10:00:00,Suspicious Corp,Other,Normal
+19,45.99,2023-01-03 11:30:00,GameStop,Entertainment,Normal
+20,89.99,2023-01-03 13:00:00,Nike,Clothing,Normal
+21,35.5,2023-01-03 14:30:00,Chipotle,Food,Normal
+22,25000.0,2023-01-03 15:00:00,Unknown Transfer,Transfer,Anomaly
+23,75.25,2023-01-03 16:30:00,Costco,Retail,Normal
+24,45.75,2023-01-03 17:00:00,7-Eleven,Convenience,Normal
+25,95.5,2023-01-03 18:30:00,Apple Store,Electronics,Normal
+26,55.25,2023-01-04 09:00:00,Trader Joe's,Grocery,Normal
+27,8500.0,2023-01-04 10:00:00,Suspicious LLC,Other,Normal
+28,65.99,2023-01-04 11:30:00,Best Buy,Electronics,Normal
+29,42.25,2023-01-04 13:00:00,Shell,Gas,Normal
+30,85.75,2023-01-04 14:30:00,Target,Retail,Normal
+31,11000.0,2023-01-04 15:00:00,Offshore Account,Transfer,Normal
+32,35.25,2023-01-04 16:30:00,Panera,Food,Normal
+33,95.5,2023-01-04 17:00:00,Macy's,Clothing,Normal
+34,45.75,2023-01-04 18:30:00,CVS,Healthcare,Normal
+35,75.25,2023-01-05 09:00:00,Walmart,Retail,Normal
+36,13500.0,2023-01-05 10:00:00,Unknown Entity,Other,Normal
+37,55.99,2023-01-05 11:30:00,Home Depot,Home,Normal
+38,32.25,2023-01-05 13:00:00,McDonald's,Food,Normal
+39,85.75,2023-01-05 14:30:00,Amazon,Online,Normal
+40,45.5,2023-01-05 16:00:00,Kroger,Grocery,Normal
+41,16000.0,2023-01-05 17:00:00,Suspicious Transfer,Transfer,Anomaly
+42,65.25,2023-01-05 18:30:00,Office Depot,Office,Normal
+43,95.75,2023-01-06 09:00:00,Best Buy,Electronics,Normal
+44,42.99,2023-01-06 10:30:00,Shell,Gas,Normal
+45,75.5,2023-01-06 12:00:00,Target,Retail,Normal
+46,9500.0,2023-01-06 13:00:00,Unknown Corp,Other,Anomaly
+47,35.25,2023-01-06 14:30:00,Starbucks,Food,Normal
+48,85.99,2023-01-06 16:00:00,Nike,Clothing,Normal
+49,45.75,2023-01-06 17:30:00,Walgreens,Healthcare,Normal
+50,95.25,2023-01-06 19:00:00,Apple Store,Electronics ,Normal
