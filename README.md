@@ -19,14 +19,22 @@ Implement AI-based models like Isolation Forest and Autoencoders to detect fraud
 
 ```
 anomaly-detection-financial-transactions/
+├── __pycache__/
 ├── docs/
-│   ├── overview.md
-│   ├── anomaly_detection_methods.md
-│   ├── dataset_description.md
-│   ├── tools_and_libraries.md
-│   └── references.md
-├──Financial Anomaly Detection Workflow.jpg 
+├── Financial Anomaly Detection Workflow.jpg
 ├── README.md
+├── anomaly_detection.py
+├── app.py
+├── large_transactions.csv
+├── output of large_transactions file.csv
+├── output of transaction_anomalies file.csv
+├── output of transactions file.csv
+├── output of transactions_large file.csv
+├── preprocess.py
+├── requirements.txt
+├── transaction_anomalies_dataset.csv
+├── transactions.csv
+├── transactions_large.csv
 ```
 
 ---
