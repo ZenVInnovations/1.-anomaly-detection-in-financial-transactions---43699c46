@@ -1,0 +1,51 @@
+transaction_id,amount,time,merchant,category
+1,75.50,2023-01-01 10:00:00,Walmart,Retail
+2,25.75,2023-01-01 11:30:00,Starbucks,Food
+3,150.00,2023-01-01 12:00:00,Best Buy,Electronics
+4,45.25,2023-01-01 14:00:00,Shell,Gas
+5,65.80,2023-01-01 15:00:00,Target,Retail
+6,30.25,2023-01-01 16:00:00,McDonald's,Food
+7,120.75,2023-01-01 17:00:00,Amazon,Online
+8,55.00,2023-01-02 09:00:00,Kroger,Grocery
+9,35.99,2023-01-02 10:30:00,CVS,Healthcare
+10,85.25,2023-01-02 12:00:00,Home Depot,Home
+11,9999.99,2023-01-02 13:00:00,Unknown Vendor,Other
+12,42.50,2023-01-02 14:30:00,Subway,Food
+13,15000.00,2023-01-02 15:00:00,Foreign Transfer,Transfer
+14,95.75,2023-01-02 16:00:00,Office Depot,Office
+15,28.99,2023-01-02 17:30:00,Dunkin,Food
+16,12500.00,2023-01-02 18:00:00,Crypto Exchange,Investment
+17,65.25,2023-01-03 09:00:00,PetSmart,Pets
+18,7500.00,2023-01-03 10:00:00,Suspicious Corp,Other
+19,45.99,2023-01-03 11:30:00,GameStop,Entertainment
+20,89.99,2023-01-03 13:00:00,Nike,Clothing
+21,35.50,2023-01-03 14:30:00,Chipotle,Food
+22,25000.00,2023-01-03 15:00:00,Unknown Transfer,Transfer
+23,75.25,2023-01-03 16:30:00,Costco,Retail
+24,45.75,2023-01-03 17:00:00,7-Eleven,Convenience
+25,95.50,2023-01-03 18:30:00,Apple Store,Electronics
+26,55.25,2023-01-04 09:00:00,Trader Joe's,Grocery
+27,8500.00,2023-01-04 10:00:00,Suspicious LLC,Other
+28,65.99,2023-01-04 11:30:00,Best Buy,Electronics
+29,42.25,2023-01-04 13:00:00,Shell,Gas
+30,85.75,2023-01-04 14:30:00,Target,Retail
+31,11000.00,2023-01-04 15:00:00,Offshore Account,Transfer
+32,35.25,2023-01-04 16:30:00,Panera,Food
+33,95.50,2023-01-04 17:00:00,Macy's,Clothing
+34,45.75,2023-01-04 18:30:00,CVS,Healthcare
+35,75.25,2023-01-05 09:00:00,Walmart,Retail
+36,13500.00,2023-01-05 10:00:00,Unknown Entity,Other
+37,55.99,2023-01-05 11:30:00,Home Depot,Home
+38,32.25,2023-01-05 13:00:00,McDonald's,Food
+39,85.75,2023-01-05 14:30:00,Amazon,Online
+40,45.50,2023-01-05 16:00:00,Kroger,Grocery
+41,16000.00,2023-01-05 17:00:00,Suspicious Transfer,Transfer
+42,65.25,2023-01-05 18:30:00,Office Depot,Office
+43,95.75,2023-01-06 09:00:00,Best Buy,Electronics
+44,42.99,2023-01-06 10:30:00,Shell,Gas
+45,75.50,2023-01-06 12:00:00,Target,Retail
+46,9500.00,2023-01-06 13:00:00,Unknown Corp,Other
+47,35.25,2023-01-06 14:30:00,Starbucks,Food
+48,85.99,2023-01-06 16:00:00,Nike,Clothing
+49,45.75,2023-01-06 17:30:00,Walgreens,Healthcare
+50,95.25,2023-01-06 19:00:00,Apple Store,Electronics 

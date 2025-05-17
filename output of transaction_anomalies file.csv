@@ -1,0 +1,31 @@
+transaction_id,amount,timestamp,account_type,location,merchant_category,anomaly
+1,120.5,2023-01-01 09:15:00,Savings,New York,Retail,Normal
+2,45.75,2023-01-01 10:30:00,Checking,Chicago,Food,Normal
+3,89.99,2023-01-01 11:45:00,Credit,Los Angeles,Electronics,Normal
+4,25.0,2023-01-01 13:00:00,Checking,Boston,Coffee,Normal
+5,75.25,2023-01-01 14:15:00,Credit,Miami,Grocery,Normal
+6,15000.0,2023-01-01 15:30:00,Savings,Unknown,Wire Transfer,Normal
+7,35.5,2023-01-01 16:45:00,Checking,Seattle,Restaurant,Normal
+8,250.0,2023-01-01 18:00:00,Credit,San Francisco,Shopping,Normal
+9,8500.0,2023-01-01 19:15:00,Savings,International,Money Transfer,Normal
+10,65.75,2023-01-01 20:30:00,Checking,Denver,Entertainment,Normal
+11,95.25,2023-01-02 09:45:00,Credit,Phoenix,Gas,Normal
+12,22000.0,2023-01-02 11:00:00,Savings,Offshore,Investment,Anomaly
+13,40.0,2023-01-02 12:15:00,Checking,Portland,Fast Food,Normal
+14,180.5,2023-01-02 13:30:00,Credit,Atlanta,Department Store,Normal
+15,12500.0,2023-01-02 14:45:00,Savings,Unknown,Crypto Exchange,Normal
+16,55.25,2023-01-02 16:00:00,Checking,Houston,Pharmacy,Normal
+17,9999.99,2023-01-02 17:15:00,Savings,Suspicious,Online Transfer,Normal
+18,85.0,2023-01-02 18:30:00,Credit,Dallas,Restaurant,Normal
+19,150.75,2023-01-02 19:45:00,Checking,Austin,Electronics,Normal
+20,18000.0,2023-01-02 21:00:00,Savings,International,Wire Transfer,Normal
+21,45.5,2023-01-03 09:15:00,Credit,San Diego,Coffee,Normal
+22,95.25,2023-01-03 10:30:00,Checking,Las Vegas,Entertainment,Normal
+23,7500.0,2023-01-03 11:45:00,Savings,Unknown,P2P Transfer,Normal
+24,65.0,2023-01-03 13:00:00,Credit,Orlando,Shopping,Normal
+25,25000.0,2023-01-03 14:15:00,Savings,Offshore,Investment,Anomaly
+26,35.75,2023-01-03 15:30:00,Checking,Seattle,Fast Food,Normal
+27,125.5,2023-01-03 16:45:00,Credit,Boston,Department Store,Normal
+28,11000.0,2023-01-03 18:00:00,Savings,Suspicious,Crypto Exchange,Normal
+29,75.25,2023-01-03 19:15:00,Checking,Miami,Grocery,Normal
+30,45.99,2023-01-03 20:30:00,Credit,Chicago,Restaurant ,Normal

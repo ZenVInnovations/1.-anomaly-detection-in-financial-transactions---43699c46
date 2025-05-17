@@ -1,0 +1,1201 @@
+transaction_id,amount,timestamp,account_type,location,merchant_category,is_anomaly,anomaly
+203,80.51,2024-01-01 00:39:00,Checking,Chicago,Restaurant,0,Normal
+735,276.73,2024-01-01 00:40:00,Checking,Phoenix,Healthcare,0,Normal
+176,124.1,2024-01-01 00:46:00,Savings,New York,Utilities,0,Normal
+294,85.87,2024-01-01 01:40:00,Checking,Philadelphia,Entertainment,0,Normal
+259,124.67,2024-01-01 02:12:00,Credit,San Jose,Electronics,0,Normal
+780,132.95,2024-01-01 02:25:00,Checking,Houston,Travel,0,Normal
+919,168.43,2024-01-01 03:02:00,Savings,Chicago,Restaurant,0,Normal
+1086,32187.51,2024-01-01 03:39:00,Credit,Unknown,Online Gaming,1,Normal
+397,129.28,2024-01-01 05:49:00,Credit,San Jose,Utilities,0,Normal
+1159,1878.83,2024-01-01 06:05:00,Credit,Suspicious,Crypto Exchange,1,Normal
+40,78.16,2024-01-01 06:08:00,Savings,San Diego,Healthcare,0,Normal
+766,136.81,2024-01-01 06:11:00,Checking,San Jose,Investment,0,Normal
+410,55.57,2024-01-01 07:21:00,Savings,San Diego,Travel,0,Normal
+154,143.35,2024-01-01 07:45:00,Savings,Philadelphia,Education,0,Normal
+147,19.88,2024-01-01 08:42:00,Credit,San Antonio,Grocery,0,Normal
+1180,2246.76,2024-01-01 09:20:00,Credit,Unknown,Wire Transfer,1,Normal
+1025,38273.51,2024-01-01 09:49:00,Savings,International,Foreign Exchange,1,Anomaly
+100,78.95,2024-01-01 10:27:00,Checking,Houston,Healthcare,0,Normal
+853,79.23,2024-01-01 11:57:00,Savings,Houston,Retail,0,Normal
+1009,20560.17,2024-01-01 12:20:00,Savings,International,Wire Transfer,1,Anomaly
+1036,22724.18,2024-01-01 12:50:00,Savings,Suspicious,Wire Transfer,1,Normal
+120,36.13,2024-01-01 13:20:00,Checking,New York,Investment,0,Normal
+394,98.58,2024-01-01 13:37:00,Checking,Phoenix,Restaurant,0,Normal
+517,118.32,2024-01-01 14:04:00,Checking,Houston,Retail,0,Normal
+452,64.68,2024-01-01 14:39:00,Credit,San Antonio,Utilities,0,Normal
+658,160.15,2024-01-01 15:40:00,Savings,San Diego,Electronics,0,Normal
+1124,8754.41,2024-01-01 16:05:00,Credit,Unknown,Online Gaming,1,Normal
+476,100.27,2024-01-01 16:28:00,Credit,San Jose,Utilities,0,Normal
+290,133.25,2024-01-01 17:31:00,Credit,Houston,Restaurant,0,Normal
+1121,10015.76,2024-01-01 17:51:00,Checking,International,Wire Transfer,1,Normal
+838,126.68,2024-01-01 18:30:00,Checking,New York,Electronics,0,Normal
+549,85.17,2024-01-01 18:52:00,Savings,Phoenix,Entertainment,0,Normal
+70,43.49,2024-01-01 19:12:00,Savings,San Diego,Restaurant,0,Normal
+139,95.94,2024-01-01 19:20:00,Credit,Chicago,Utilities,0,Normal
+430,81.56,2024-01-01 19:29:00,Savings,Chicago,Investment,0,Normal
+948,169.22,2024-01-01 20:15:00,Savings,Philadelphia,Entertainment,0,Normal
+951,33.24,2024-01-01 22:49:00,Credit,Phoenix,Investment,0,Normal
+831,203.5,2024-01-01 22:54:00,Checking,San Antonio,Travel,0,Normal
+851,66.29,2024-01-01 23:53:00,Credit,Houston,Investment,0,Normal
+1143,12894.09,2024-01-01 23:56:00,Credit,Suspicious,Foreign Exchange,1,Normal
+969,233.57,2024-01-02 01:34:00,Credit,San Jose,Entertainment,0,Normal
+519,96.03,2024-01-02 02:22:00,Savings,Philadelphia,Retail,0,Normal
+506,256.47,2024-01-02 02:31:00,Checking,Houston,Healthcare,0,Normal
+705,164.92,2024-01-02 02:48:00,Checking,Philadelphia,Utilities,0,Normal
+775,16.58,2024-01-02 03:05:00,Savings,San Jose,Investment,0,Normal
+691,36.84,2024-01-02 03:16:00,Credit,New York,Electronics,0,Normal
+979,114.36,2024-01-02 03:24:00,Checking,Phoenix,Utilities,0,Normal
+930,118.89,2024-01-02 05:16:00,Credit,New York,Education,0,Normal
+862,68.04,2024-01-02 05:27:00,Savings,San Diego,Entertainment,0,Normal
+738,47.46,2024-01-02 05:38:00,Credit,Dallas,Grocery,0,Normal
+846,75.79,2024-01-02 05:45:00,Checking,Houston,Travel,0,Normal
+317,94.39,2024-01-02 05:49:00,Checking,Chicago,Healthcare,0,Normal
+470,271.12,2024-01-02 06:17:00,Checking,Philadelphia,Utilities,0,Normal
+978,106.83,2024-01-02 07:20:00,Savings,Dallas,Healthcare,0,Normal
+654,120.89,2024-01-02 07:26:00,Credit,San Diego,Grocery,0,Normal
+1028,46123.75,2024-01-02 07:58:00,Savings,Unknown,Online Gaming,1,Anomaly
+145,357.05,2024-01-02 09:01:00,Checking,San Diego,Grocery,0,Normal
+435,55.43,2024-01-02 09:04:00,Savings,New York,Grocery,0,Normal
+988,124.71,2024-01-02 09:24:00,Savings,New York,Retail,0,Normal
+989,239.46,2024-01-02 10:49:00,Credit,Phoenix,Education,0,Normal
+315,153.13,2024-01-02 10:50:00,Savings,New York,Travel,0,Normal
+400,110.5,2024-01-02 12:39:00,Savings,Philadelphia,Investment,0,Normal
+669,239.96,2024-01-02 12:45:00,Savings,Los Angeles,Investment,0,Normal
+876,66.3,2024-01-02 13:03:00,Checking,San Antonio,Education,0,Normal
+667,140.11,2024-01-02 13:12:00,Savings,Houston,Investment,0,Normal
+950,104.52,2024-01-02 13:35:00,Checking,San Antonio,Investment,0,Normal
+695,79.59,2024-01-02 14:13:00,Checking,Chicago,Healthcare,0,Normal
+1024,42508.54,2024-01-02 15:28:00,Checking,International,Wire Transfer,1,Anomaly
+864,176.35,2024-01-02 15:36:00,Credit,Chicago,Travel,0,Normal
+1183,4501.62,2024-01-02 15:47:00,Credit,International,Online Gaming,1,Normal
+1113,12026.4,2024-01-02 17:18:00,Credit,Unknown,Foreign Exchange,1,Normal
+318,172.04,2024-01-02 17:29:00,Credit,San Diego,Education,0,Normal
+401,94.35,2024-01-02 19:00:00,Checking,San Jose,Education,0,Normal
+1074,30160.15,2024-01-02 20:14:00,Savings,Unknown,Foreign Exchange,1,Normal
+83,197.26,2024-01-02 21:22:00,Checking,Los Angeles,Healthcare,0,Normal
+972,32.46,2024-01-02 21:32:00,Checking,Chicago,Electronics,0,Normal
+177,147.11,2024-01-02 21:47:00,Savings,San Jose,Electronics,0,Normal
+784,77.84,2024-01-02 22:36:00,Savings,San Antonio,Restaurant,0,Normal
+929,134.05,2024-01-02 22:43:00,Credit,Houston,Entertainment,0,Normal
+672,27.69,2024-01-02 23:44:00,Credit,San Antonio,Investment,0,Normal
+374,31.72,2024-01-02 23:58:00,Credit,Dallas,Restaurant,0,Normal
+295,634.47,2024-01-03 00:20:00,Checking,San Diego,Travel,0,Anomaly
+931,111.77,2024-01-03 01:22:00,Savings,Los Angeles,Utilities,0,Normal
+44,172.42,2024-01-03 02:32:00,Checking,San Jose,Utilities,0,Normal
+636,208.12,2024-01-03 02:37:00,Savings,San Antonio,Electronics,0,Normal
+593,80.72,2024-01-03 04:42:00,Savings,Chicago,Healthcare,0,Normal
+53,150.54,2024-01-03 04:46:00,Credit,Houston,Restaurant,0,Normal
+284,25.57,2024-01-03 05:17:00,Credit,San Antonio,Healthcare,0,Normal
+813,113.26,2024-01-03 05:36:00,Checking,Philadelphia,Investment,0,Normal
+604,55.95,2024-01-03 06:45:00,Savings,Los Angeles,Utilities,0,Normal
+427,179.41,2024-01-03 06:50:00,Credit,Philadelphia,Grocery,0,Normal
+879,184.8,2024-01-03 07:15:00,Credit,Philadelphia,Investment,0,Normal
+641,137.44,2024-01-03 08:02:00,Checking,San Diego,Utilities,0,Normal
+976,111.26,2024-01-03 08:05:00,Checking,San Antonio,Entertainment,0,Normal
+367,308.37,2024-01-03 08:44:00,Savings,Houston,Entertainment,0,Normal
+752,409.23,2024-01-03 08:59:00,Credit,Houston,Electronics,0,Normal
+495,142.74,2024-01-03 09:09:00,Checking,Phoenix,Grocery,0,Normal
+601,96.3,2024-01-03 09:33:00,Checking,Philadelphia,Restaurant,0,Normal
+1087,39911.77,2024-01-03 09:33:00,Checking,Offshore,Wire Transfer,1,Anomaly
+764,52.63,2024-01-03 09:50:00,Checking,Chicago,Entertainment,0,Normal
+912,171.4,2024-01-03 09:53:00,Credit,Phoenix,Investment,0,Normal
+51,104.19,2024-01-03 11:39:00,Savings,Phoenix,Utilities,0,Normal
+778,124.45,2024-01-03 12:17:00,Savings,San Diego,Entertainment,0,Normal
+692,165.5,2024-01-03 12:40:00,Savings,Phoenix,Electronics,0,Normal
+356,73.32,2024-01-03 14:22:00,Checking,New York,Grocery,0,Normal
+673,20.88,2024-01-03 15:05:00,Credit,Phoenix,Retail,0,Normal
+966,297.05,2024-01-03 15:06:00,Credit,San Diego,Utilities,0,Normal
+940,215.78,2024-01-03 15:29:00,Credit,Phoenix,Utilities,0,Normal
+118,144.27,2024-01-03 15:40:00,Credit,Chicago,Grocery,0,Normal
+405,125.22,2024-01-03 16:04:00,Credit,Dallas,Travel,0,Normal
+217,220.88,2024-01-03 16:34:00,Credit,San Antonio,Healthcare,0,Normal
+80,63.59,2024-01-03 16:36:00,Savings,San Antonio,Education,0,Normal
+567,54.23,2024-01-03 17:36:00,Savings,Houston,Healthcare,0,Normal
+336,161.58,2024-01-03 17:57:00,Credit,Philadelphia,Healthcare,0,Normal
+589,120.91,2024-01-03 17:58:00,Savings,Los Angeles,Electronics,0,Normal
+267,107.34,2024-01-03 18:19:00,Savings,Phoenix,Utilities,0,Normal
+504,115.57,2024-01-03 18:32:00,Savings,Phoenix,Restaurant,0,Normal
+928,85.43,2024-01-03 21:05:00,Checking,Los Angeles,Grocery,0,Normal
+796,87.11,2024-01-03 21:13:00,Savings,Philadelphia,Restaurant,0,Normal
+765,211.6,2024-01-03 21:14:00,Credit,San Antonio,Restaurant,0,Normal
+1080,47001.89,2024-01-03 21:18:00,Checking,Unknown,Wire Transfer,1,Anomaly
+554,57.4,2024-01-03 21:33:00,Credit,San Jose,Travel,0,Normal
+1167,4592.95,2024-01-03 22:25:00,Credit,Unknown,Online Gaming,1,Normal
+1065,24859.44,2024-01-03 22:38:00,Savings,Suspicious,Wire Transfer,1,Normal
+653,98.18,2024-01-03 23:39:00,Credit,Los Angeles,Entertainment,0,Normal
+119,86.67,2024-01-04 00:03:00,Checking,San Antonio,Education,0,Normal
+493,60.19,2024-01-04 00:07:00,Credit,Phoenix,Grocery,0,Normal
+348,188.94,2024-01-04 00:07:00,Credit,Chicago,Grocery,0,Normal
+774,107.58,2024-01-04 01:14:00,Savings,New York,Retail,0,Normal
+132,66.58,2024-01-04 02:48:00,Checking,Phoenix,Restaurant,0,Normal
+1051,10213.85,2024-01-04 03:13:00,Checking,Offshore,Online Gaming,1,Normal
+444,144.48,2024-01-04 03:25:00,Checking,Dallas,Travel,0,Normal
+934,15.67,2024-01-04 04:12:00,Checking,Los Angeles,Entertainment,0,Normal
+455,69.05,2024-01-04 04:55:00,Credit,Chicago,Healthcare,0,Normal
+847,108.31,2024-01-04 05:18:00,Checking,New York,Travel,0,Normal
+1144,9162.18,2024-01-04 05:40:00,Checking,Unknown,Crypto Exchange,1,Normal
+916,110.17,2024-01-04 05:41:00,Credit,Phoenix,Education,0,Normal
+661,76.35,2024-01-04 05:59:00,Checking,Houston,Utilities,0,Normal
+252,109.72,2024-01-04 05:59:00,Checking,Chicago,Education,0,Normal
+899,107.24,2024-01-04 06:09:00,Savings,Phoenix,Restaurant,0,Normal
+996,195.24,2024-01-04 06:39:00,Credit,Los Angeles,Entertainment,0,Normal
+624,150.61,2024-01-04 07:19:00,Checking,Los Angeles,Utilities,0,Normal
+918,60.09,2024-01-04 07:36:00,Credit,Los Angeles,Investment,0,Normal
+718,72.51,2024-01-04 08:37:00,Checking,San Jose,Restaurant,0,Normal
+901,173.38,2024-01-04 09:32:00,Credit,San Jose,Travel,0,Normal
+379,60.69,2024-01-04 10:29:00,Savings,San Diego,Retail,0,Normal
+873,77.25,2024-01-04 10:50:00,Credit,New York,Electronics,0,Normal
+228,110.02,2024-01-04 11:40:00,Savings,Dallas,Grocery,0,Normal
+153,67.29,2024-01-04 12:19:00,Checking,Los Angeles,Restaurant,0,Normal
+794,153.78,2024-01-04 12:22:00,Credit,Dallas,Retail,0,Normal
+973,55.53,2024-01-04 13:00:00,Credit,Phoenix,Investment,0,Normal
+1109,5785.58,2024-01-04 13:02:00,Checking,Unknown,Wire Transfer,1,Normal
+20,100.45,2024-01-04 13:49:00,Checking,Chicago,Investment,0,Normal
+1100,28194.9,2024-01-04 14:03:00,Credit,Offshore,Online Gaming,1,Normal
+558,169.49,2024-01-04 14:19:00,Savings,Houston,Investment,0,Normal
+679,92.98,2024-01-04 16:11:00,Credit,Philadelphia,Investment,0,Normal
+1013,35201.6,2024-01-04 16:34:00,Checking,International,Crypto Exchange,1,Anomaly
+957,134.45,2024-01-04 17:54:00,Credit,San Antonio,Entertainment,0,Normal
+550,114.56,2024-01-04 18:25:00,Credit,Philadelphia,Investment,0,Normal
+1118,7462.86,2024-01-04 18:47:00,Savings,Suspicious,Crypto Exchange,1,Normal
+1125,13000.73,2024-01-04 19:47:00,Savings,Unknown,Crypto Exchange,1,Normal
+888,65.98,2024-01-04 21:06:00,Checking,San Jose,Healthcare,0,Normal
+280,142.09,2024-01-04 21:16:00,Savings,San Diego,Grocery,0,Normal
+1112,10940.83,2024-01-04 23:23:00,Checking,Unknown,Online Gaming,1,Normal
+84,71.78,2024-01-05 00:00:00,Savings,New York,Restaurant,0,Normal
+610,51.48,2024-01-05 00:29:00,Savings,San Jose,Electronics,0,Normal
+327,62.29,2024-01-05 01:05:00,Checking,San Jose,Restaurant,0,Normal
+1181,1012.56,2024-01-05 01:21:00,Savings,International,Online Gaming,1,Normal
+233,223.36,2024-01-05 02:11:00,Credit,Phoenix,Education,0,Normal
+1140,13918.93,2024-01-05 03:05:00,Credit,Unknown,Foreign Exchange,1,Normal
+769,249.58,2024-01-05 03:27:00,Checking,Los Angeles,Entertainment,0,Normal
+192,155.74,2024-01-05 03:33:00,Credit,Chicago,Electronics,0,Normal
+792,45.66,2024-01-05 04:00:00,Savings,Phoenix,Investment,0,Normal
+414,88.4,2024-01-05 04:18:00,Savings,Houston,Retail,0,Normal
+1044,10629.72,2024-01-05 04:29:00,Checking,Unknown,Crypto Exchange,1,Normal
+521,41.08,2024-01-05 04:37:00,Checking,Phoenix,Entertainment,0,Normal
+298,287.68,2024-01-05 05:02:00,Credit,New York,Utilities,0,Normal
+1103,11390.32,2024-01-05 05:20:00,Savings,Suspicious,Wire Transfer,1,Normal
+390,98.47,2024-01-05 05:25:00,Credit,Phoenix,Education,0,Normal
+785,77.65,2024-01-05 05:44:00,Checking,Houston,Healthcare,0,Normal
+539,147.52,2024-01-05 05:57:00,Checking,Houston,Investment,0,Normal
+1034,32846.49,2024-01-05 07:12:00,Credit,Offshore,Crypto Exchange,1,Normal
+456,73.58,2024-01-05 07:41:00,Savings,Houston,Utilities,0,Normal
+402,64.53,2024-01-05 08:16:00,Credit,Los Angeles,Grocery,0,Normal
+216,24.69,2024-01-05 08:23:00,Credit,Houston,Utilities,0,Normal
+395,84.15,2024-01-05 10:35:00,Checking,Philadelphia,Education,0,Normal
+202,229.24,2024-01-05 11:02:00,Checking,Chicago,Entertainment,0,Normal
+187,65.64,2024-01-05 11:15:00,Checking,San Diego,Education,0,Normal
+924,89.45,2024-01-05 11:26:00,Credit,San Jose,Healthcare,0,Normal
+221,208.15,2024-01-05 11:48:00,Credit,New York,Entertainment,0,Normal
+195,118.03,2024-01-05 12:03:00,Savings,Philadelphia,Electronics,0,Normal
+1012,42973.08,2024-01-05 12:31:00,Credit,Suspicious,Wire Transfer,1,Anomaly
+185,32.96,2024-01-05 14:48:00,Credit,Philadelphia,Retail,0,Normal
+649,143.33,2024-01-05 15:12:00,Savings,San Diego,Retail,0,Normal
+805,150.21,2024-01-05 16:48:00,Savings,Philadelphia,Travel,0,Normal
+338,29.56,2024-01-05 17:27:00,Checking,Los Angeles,Grocery,0,Normal
+811,636.7,2024-01-05 19:25:00,Savings,San Jose,Grocery,0,Anomaly
+90,153.06,2024-01-05 19:33:00,Credit,San Antonio,Entertainment,0,Normal
+1001,28460.92,2024-01-05 19:34:00,Savings,International,Online Gaming,1,Anomaly
+943,127.59,2024-01-05 19:39:00,Savings,Chicago,Grocery,0,Normal
+314,47.1,2024-01-05 20:13:00,Savings,Philadelphia,Retail,0,Normal
+174,50.03,2024-01-05 20:22:00,Credit,San Diego,Electronics,0,Normal
+461,45.79,2024-01-05 20:25:00,Credit,Phoenix,Electronics,0,Normal
+677,120.5,2024-01-05 21:03:00,Savings,Chicago,Grocery,0,Normal
+576,104.08,2024-01-05 21:15:00,Checking,New York,Healthcare,0,Normal
+510,101.4,2024-01-05 21:20:00,Savings,Phoenix,Restaurant,0,Normal
+183,156.31,2024-01-05 21:56:00,Checking,Los Angeles,Investment,0,Normal
+1004,40946.5,2024-01-05 22:01:00,Credit,Offshore,Online Gaming,1,Anomaly
+107,72.66,2024-01-05 22:08:00,Checking,Chicago,Entertainment,0,Normal
+55,56.24,2024-01-05 22:13:00,Savings,Philadelphia,Healthcare,0,Normal
+61,116.47,2024-01-05 22:38:00,Credit,Houston,Investment,0,Normal
+1168,4107.21,2024-01-05 23:48:00,Savings,Offshore,Online Gaming,1,Normal
+340,278.18,2024-01-06 00:04:00,Credit,Houston,Grocery,0,Normal
+432,63.28,2024-01-06 00:36:00,Checking,San Antonio,Utilities,0,Normal
+538,96.8,2024-01-06 01:16:00,Checking,Philadelphia,Grocery,0,Normal
+848,24.68,2024-01-06 01:17:00,Credit,New York,Travel,0,Normal
+958,51.89,2024-01-06 02:21:00,Checking,Chicago,Investment,0,Normal
+135,111.27,2024-01-06 02:59:00,Credit,San Diego,Restaurant,0,Normal
+630,81.65,2024-01-06 04:04:00,Checking,San Jose,Entertainment,0,Normal
+829,146.25,2024-01-06 04:46:00,Savings,San Jose,Electronics,0,Normal
+447,133.68,2024-01-06 05:07:00,Checking,Dallas,Grocery,0,Normal
+1000,123.6,2024-01-06 06:49:00,Savings,Dallas,Investment,0,Normal
+1200,4761.68,2024-01-06 06:51:00,Credit,Offshore,Foreign Exchange,1,Anomaly
+577,32.37,2024-01-06 07:24:00,Checking,San Antonio,Grocery,0,Normal
+72,66.06,2024-01-06 07:26:00,Savings,San Antonio,Healthcare,0,Normal
+744,53.22,2024-01-06 08:05:00,Checking,Philadelphia,Grocery,0,Normal
+727,40.12,2024-01-06 08:07:00,Credit,Los Angeles,Grocery,0,Normal
+842,214.74,2024-01-06 08:32:00,Savings,Dallas,Education,0,Normal
+1020,27456.78,2024-01-06 09:20:00,Checking,International,Wire Transfer,1,Normal
+857,234.36,2024-01-06 10:34:00,Credit,New York,Utilities,0,Normal
+725,40.34,2024-01-06 10:44:00,Credit,New York,Retail,0,Normal
+808,78.08,2024-01-06 11:58:00,Credit,San Antonio,Grocery,0,Normal
+688,75.06,2024-01-06 14:14:00,Savings,Houston,Investment,0,Normal
+1006,16024.32,2024-01-06 14:20:00,Checking,Offshore,Foreign Exchange,1,Anomaly
+1046,46664.13,2024-01-06 14:31:00,Credit,International,Crypto Exchange,1,Anomaly
+790,239.97,2024-01-06 16:58:00,Savings,Phoenix,Grocery,0,Normal
+1134,12759.12,2024-01-06 16:58:00,Credit,Offshore,Wire Transfer,1,Normal
+536,84.14,2024-01-06 17:20:00,Savings,Chicago,Healthcare,0,Normal
+823,161.96,2024-01-06 19:22:00,Credit,Chicago,Entertainment,0,Normal
+373,123.26,2024-01-06 19:25:00,Checking,San Diego,Travel,0,Normal
+475,191.94,2024-01-06 20:23:00,Savings,Phoenix,Travel,0,Normal
+91,164.34,2024-01-06 21:10:00,Credit,New York,Education,0,Normal
+946,70.61,2024-01-06 21:17:00,Checking,Dallas,Travel,0,Normal
+751,143.56,2024-01-06 21:25:00,Savings,San Diego,Grocery,0,Normal
+378,146.55,2024-01-06 22:47:00,Checking,San Antonio,Retail,0,Normal
+656,47.68,2024-01-06 23:18:00,Credit,San Jose,Education,0,Normal
+513,84.74,2024-01-07 00:22:00,Checking,Houston,Electronics,0,Normal
+483,98.5,2024-01-07 00:31:00,Savings,Los Angeles,Restaurant,0,Normal
+1150,9384.57,2024-01-07 02:54:00,Savings,Unknown,Foreign Exchange,1,Normal
+166,63.17,2024-01-07 03:05:00,Checking,San Jose,Entertainment,0,Normal
+922,186.64,2024-01-07 03:12:00,Credit,Philadelphia,Restaurant,0,Normal
+431,112.54,2024-01-07 03:28:00,Savings,Dallas,Utilities,0,Normal
+189,199.96,2024-01-07 03:32:00,Savings,San Antonio,Entertainment,0,Normal
+1003,41468.33,2024-01-07 04:21:00,Savings,Offshore,Foreign Exchange,1,Anomaly
+662,102.74,2024-01-07 04:42:00,Credit,Philadelphia,Utilities,0,Normal
+316,144.53,2024-01-07 05:59:00,Checking,Philadelphia,Healthcare,0,Normal
+419,75.81,2024-01-07 07:13:00,Credit,Phoenix,Electronics,0,Normal
+47,93.87,2024-01-07 08:07:00,Credit,Phoenix,Restaurant,0,Normal
+56,129.69,2024-01-07 08:14:00,Savings,Houston,Retail,0,Normal
+46,64.06,2024-01-07 08:27:00,Checking,New York,Retail,0,Normal
+254,30.47,2024-01-07 09:25:00,Savings,San Diego,Restaurant,0,Normal
+776,127.67,2024-01-07 09:50:00,Savings,New York,Entertainment,0,Normal
+908,111.99,2024-01-07 10:09:00,Checking,Philadelphia,Electronics,0,Normal
+24,126.55,2024-01-07 11:07:00,Credit,Houston,Healthcare,0,Normal
+917,71.34,2024-01-07 12:45:00,Checking,Philadelphia,Electronics,0,Normal
+237,31.18,2024-01-07 12:52:00,Credit,San Jose,Healthcare,0,Normal
+244,171.15,2024-01-07 13:12:00,Credit,San Jose,Electronics,0,Normal
+584,133.56,2024-01-07 13:14:00,Checking,New York,Investment,0,Normal
+230,199.5,2024-01-07 13:30:00,Savings,New York,Healthcare,0,Normal
+854,88.02,2024-01-07 14:20:00,Checking,Philadelphia,Restaurant,0,Normal
+693,90.37,2024-01-07 14:54:00,Checking,Chicago,Entertainment,0,Normal
+994,35.92,2024-01-07 15:15:00,Credit,New York,Utilities,0,Normal
+103,148.11,2024-01-07 15:25:00,Checking,Houston,Travel,0,Normal
+59,232.64,2024-01-07 16:51:00,Savings,New York,Retail,0,Normal
+1142,10518.77,2024-01-07 17:34:00,Credit,International,Wire Transfer,1,Normal
+666,46.14,2024-01-07 17:35:00,Checking,New York,Restaurant,0,Normal
+99,83.77,2024-01-07 17:39:00,Credit,San Antonio,Investment,0,Normal
+64,107.6,2024-01-07 18:21:00,Credit,Houston,Restaurant,0,Normal
+1042,13208.89,2024-01-07 18:27:00,Checking,Suspicious,Crypto Exchange,1,Normal
+1,23.99,2024-01-07 19:28:00,Savings,San Jose,Electronics,0,Normal
+852,25.93,2024-01-07 20:14:00,Savings,New York,Travel,0,Normal
+911,155.91,2024-01-07 20:17:00,Checking,New York,Investment,0,Normal
+1189,2455.24,2024-01-07 20:19:00,Credit,Unknown,Wire Transfer,1,Normal
+1163,2414.79,2024-01-07 20:41:00,Checking,International,Crypto Exchange,1,Normal
+1002,49332.23,2024-01-07 21:13:00,Checking,Suspicious,Foreign Exchange,1,Anomaly
+1177,2913.98,2024-01-07 21:48:00,Credit,Unknown,Foreign Exchange,1,Normal
+1070,29765.91,2024-01-07 22:43:00,Savings,International,Crypto Exchange,1,Normal
+543,124.1,2024-01-08 01:11:00,Credit,Houston,Travel,0,Normal
+128,76.48,2024-01-08 01:20:00,Credit,Philadelphia,Utilities,0,Normal
+306,44.65,2024-01-08 01:27:00,Checking,Philadelphia,Utilities,0,Normal
+530,128.89,2024-01-08 01:44:00,Savings,Houston,Healthcare,0,Normal
+27,110.4,2024-01-08 03:01:00,Savings,Dallas,Electronics,0,Normal
+113,33.93,2024-01-08 03:37:00,Credit,San Diego,Entertainment,0,Normal
+781,169.98,2024-01-08 03:47:00,Savings,Philadelphia,Utilities,0,Normal
+334,53.33,2024-01-08 03:55:00,Savings,San Jose,Utilities,0,Normal
+644,98.02,2024-01-08 04:10:00,Checking,Dallas,Entertainment,0,Normal
+382,157.3,2024-01-08 04:35:00,Checking,San Jose,Grocery,0,Normal
+647,97.51,2024-01-08 04:47:00,Savings,Houston,Utilities,0,Normal
+1186,2582.83,2024-01-08 05:59:00,Savings,Offshore,Foreign Exchange,1,Normal
+122,251.01,2024-01-08 06:02:00,Savings,San Jose,Education,0,Normal
+307,194.11,2024-01-08 06:25:00,Checking,Chicago,Travel,0,Normal
+947,71.26,2024-01-08 06:31:00,Savings,San Jose,Grocery,0,Normal
+1048,22358.24,2024-01-08 07:24:00,Credit,Offshore,Wire Transfer,1,Normal
+747,164.78,2024-01-08 07:49:00,Checking,Houston,Grocery,0,Normal
+258,165.99,2024-01-08 08:38:00,Credit,Los Angeles,Travel,0,Normal
+245,67.7,2024-01-08 09:08:00,Savings,Phoenix,Entertainment,0,Normal
+428,126.96,2024-01-08 09:51:00,Savings,San Antonio,Healthcare,0,Normal
+1083,35770.27,2024-01-08 09:57:00,Savings,Offshore,Foreign Exchange,1,Anomaly
+552,123.63,2024-01-08 10:35:00,Credit,Houston,Restaurant,0,Normal
+1198,3250.22,2024-01-08 11:32:00,Checking,Offshore,Crypto Exchange,1,Normal
+793,76.53,2024-01-08 11:55:00,Credit,San Diego,Investment,0,Normal
+858,61.36,2024-01-08 13:13:00,Credit,San Antonio,Restaurant,0,Normal
+835,150.58,2024-01-08 16:11:00,Checking,Philadelphia,Entertainment,0,Normal
+926,47.27,2024-01-08 17:02:00,Checking,San Jose,Retail,0,Normal
+278,118.27,2024-01-08 17:27:00,Credit,San Antonio,Travel,0,Normal
+1059,37045.02,2024-01-08 17:54:00,Checking,International,Foreign Exchange,1,Normal
+425,113.92,2024-01-08 18:38:00,Savings,New York,Electronics,0,Normal
+169,110.64,2024-01-08 19:15:00,Savings,Houston,Education,0,Normal
+114,66.85,2024-01-08 19:34:00,Checking,San Diego,Travel,0,Normal
+779,50.67,2024-01-08 20:14:00,Credit,San Diego,Education,0,Normal
+164,163.28,2024-01-08 20:59:00,Savings,San Jose,Education,0,Normal
+594,99.88,2024-01-08 22:22:00,Savings,San Jose,Investment,0,Normal
+1035,22161.21,2024-01-08 22:42:00,Savings,Suspicious,Foreign Exchange,1,Normal
+759,130.68,2024-01-08 22:52:00,Savings,Dallas,Travel,0,Normal
+42,69.6,2024-01-08 23:10:00,Credit,Philadelphia,Investment,0,Normal
+799,32.91,2024-01-09 00:04:00,Credit,Houston,Healthcare,0,Normal
+98,76.0,2024-01-09 00:39:00,Savings,Phoenix,Restaurant,0,Normal
+281,244.37,2024-01-09 00:52:00,Savings,Philadelphia,Healthcare,0,Normal
+1049,15305.78,2024-01-09 01:14:00,Checking,Unknown,Online Gaming,1,Normal
+675,70.85,2024-01-09 01:27:00,Savings,Phoenix,Entertainment,0,Normal
+562,25.28,2024-01-09 01:52:00,Credit,Dallas,Electronics,0,Normal
+108,144.98,2024-01-09 02:18:00,Credit,Los Angeles,Investment,0,Normal
+992,139.25,2024-01-09 02:20:00,Credit,San Diego,Electronics,0,Normal
+860,21.21,2024-01-09 02:20:00,Checking,Dallas,Utilities,0,Normal
+71,215.89,2024-01-09 02:38:00,Savings,Los Angeles,Utilities,0,Normal
+412,70.37,2024-01-09 04:13:00,Credit,San Jose,Grocery,0,Normal
+136,88.95,2024-01-09 04:23:00,Credit,Dallas,Grocery,0,Normal
+73,79.9,2024-01-09 04:32:00,Savings,San Diego,Healthcare,0,Normal
+93,126.67,2024-01-09 05:15:00,Checking,Chicago,Healthcare,0,Normal
+211,176.06,2024-01-09 06:03:00,Savings,Phoenix,Education,0,Normal
+19,414.14,2024-01-09 06:17:00,Credit,Philadelphia,Restaurant,0,Anomaly
+745,205.35,2024-01-09 06:30:00,Savings,Dallas,Electronics,0,Normal
+920,585.89,2024-01-09 07:32:00,Savings,San Antonio,Grocery,0,Anomaly
+1060,15537.42,2024-01-09 07:58:00,Savings,International,Foreign Exchange,1,Normal
+1023,39920.19,2024-01-09 08:00:00,Credit,Unknown,Foreign Exchange,1,Anomaly
+1052,47536.55,2024-01-09 08:24:00,Savings,Unknown,Wire Transfer,1,Anomaly
+563,67.09,2024-01-09 08:39:00,Checking,Phoenix,Healthcare,0,Normal
+242,88.09,2024-01-09 09:57:00,Savings,San Diego,Grocery,0,Normal
+845,131.99,2024-01-09 10:03:00,Savings,Philadelphia,Travel,0,Normal
+403,54.3,2024-01-09 10:14:00,Checking,San Diego,Education,0,Normal
+341,58.58,2024-01-09 11:25:00,Credit,New York,Travel,0,Normal
+175,146.41,2024-01-09 11:52:00,Checking,San Diego,Grocery,0,Normal
+1155,1034.82,2024-01-09 12:35:00,Savings,Suspicious,Foreign Exchange,1,Normal
+909,131.79,2024-01-09 13:12:00,Checking,Phoenix,Retail,0,Normal
+993,99.09,2024-01-09 13:50:00,Savings,San Diego,Travel,0,Normal
+894,286.82,2024-01-09 14:09:00,Credit,San Diego,Retail,0,Normal
+344,131.23,2024-01-09 14:56:00,Credit,San Antonio,Healthcare,0,Normal
+843,52.44,2024-01-09 15:12:00,Checking,San Antonio,Retail,0,Normal
+269,65.82,2024-01-09 16:13:00,Checking,Phoenix,Electronics,0,Normal
+1022,13773.1,2024-01-09 16:55:00,Checking,Offshore,Online Gaming,1,Normal
+746,159.68,2024-01-09 17:11:00,Checking,Philadelphia,Restaurant,0,Normal
+1019,39449.16,2024-01-09 19:28:00,Checking,Unknown,Crypto Exchange,1,Anomaly
+466,54.93,2024-01-09 20:08:00,Credit,Los Angeles,Investment,0,Normal
+844,56.81,2024-01-09 20:12:00,Checking,Los Angeles,Investment,0,Normal
+459,80.24,2024-01-09 21:10:00,Checking,Chicago,Investment,0,Normal
+786,136.82,2024-01-09 21:59:00,Savings,Dallas,Healthcare,0,Normal
+991,198.72,2024-01-09 22:18:00,Checking,San Jose,Travel,0,Normal
+859,78.78,2024-01-10 01:45:00,Savings,Los Angeles,Investment,0,Normal
+634,267.2,2024-01-10 02:49:00,Savings,Los Angeles,Utilities,0,Normal
+880,56.04,2024-01-10 03:29:00,Savings,Los Angeles,Investment,0,Normal
+537,36.39,2024-01-10 03:40:00,Savings,Philadelphia,Restaurant,0,Normal
+29,47.72,2024-01-10 03:53:00,Savings,Philadelphia,Grocery,0,Normal
+238,37.69,2024-01-10 06:13:00,Checking,San Jose,Travel,0,Normal
+590,249.94,2024-01-10 06:16:00,Savings,San Jose,Travel,0,Normal
+609,38.73,2024-01-10 06:19:00,Savings,San Jose,Grocery,0,Normal
+1173,4317.26,2024-01-10 06:21:00,Credit,Suspicious,Foreign Exchange,1,Normal
+566,93.66,2024-01-10 06:34:00,Credit,Los Angeles,Grocery,0,Normal
+362,127.76,2024-01-10 06:56:00,Checking,Philadelphia,Travel,0,Normal
+733,140.56,2024-01-10 07:31:00,Credit,Chicago,Investment,0,Normal
+643,44.57,2024-01-10 08:14:00,Savings,Los Angeles,Entertainment,0,Normal
+372,48.4,2024-01-10 08:36:00,Checking,San Diego,Entertainment,0,Normal
+627,53.52,2024-01-10 10:33:00,Savings,Los Angeles,Retail,0,Normal
+204,56.76,2024-01-10 10:43:00,Checking,San Diego,Entertainment,0,Normal
+798,199.45,2024-01-10 11:29:00,Credit,Dallas,Retail,0,Normal
+961,45.17,2024-01-10 11:46:00,Credit,Chicago,Entertainment,0,Normal
+545,203.72,2024-01-10 12:16:00,Checking,Los Angeles,Education,0,Normal
+1021,36670.88,2024-01-10 12:48:00,Credit,Unknown,Crypto Exchange,1,Anomaly
+753,328.06,2024-01-10 13:10:00,Checking,San Diego,Travel,0,Normal
+1058,39320.14,2024-01-10 14:16:00,Checking,Suspicious,Online Gaming,1,Anomaly
+581,176.92,2024-01-10 15:06:00,Checking,San Jose,Healthcare,0,Normal
+1152,4941.22,2024-01-10 15:15:00,Credit,Unknown,Wire Transfer,1,Normal
+171,149.14,2024-01-10 18:16:00,Credit,Chicago,Investment,0,Normal
+301,203.89,2024-01-10 18:16:00,Savings,Philadelphia,Travel,0,Normal
+1199,4060.64,2024-01-10 19:34:00,Credit,Offshore,Online Gaming,1,Anomaly
+467,131.27,2024-01-10 19:56:00,Savings,Dallas,Education,0,Normal
+1054,26093.4,2024-01-10 20:35:00,Checking,Unknown,Online Gaming,1,Normal
+1093,28116.44,2024-01-10 21:11:00,Credit,Suspicious,Foreign Exchange,1,Normal
+541,66.46,2024-01-10 21:20:00,Credit,Houston,Retail,0,Normal
+339,173.83,2024-01-10 21:20:00,Credit,Los Angeles,Travel,0,Normal
+1149,5748.21,2024-01-10 21:27:00,Credit,Suspicious,Foreign Exchange,1,Normal
+741,70.77,2024-01-10 22:43:00,Credit,Chicago,Restaurant,0,Normal
+572,130.19,2024-01-10 22:48:00,Savings,New York,Healthcare,0,Normal
+1007,18689.24,2024-01-10 22:57:00,Credit,Offshore,Wire Transfer,1,Anomaly
+955,200.94,2024-01-11 02:51:00,Checking,San Antonio,Education,0,Normal
+445,100.07,2024-01-11 04:19:00,Credit,Los Angeles,Restaurant,0,Normal
+266,191.74,2024-01-11 04:35:00,Credit,San Jose,Restaurant,0,Normal
+620,80.83,2024-01-11 05:38:00,Checking,Dallas,Entertainment,0,Normal
+1128,7005.53,2024-01-11 06:08:00,Credit,Suspicious,Foreign Exchange,1,Normal
+388,81.1,2024-01-11 07:25:00,Savings,Los Angeles,Retail,0,Normal
+408,54.7,2024-01-11 08:33:00,Savings,Houston,Grocery,0,Normal
+640,54.9,2024-01-11 08:55:00,Savings,Houston,Grocery,0,Normal
+1088,42410.34,2024-01-11 09:20:00,Checking,International,Crypto Exchange,1,Anomaly
+446,94.58,2024-01-11 09:39:00,Checking,San Diego,Investment,0,Normal
+5,65.6,2024-01-11 10:23:00,Savings,Philadelphia,Entertainment,0,Normal
+273,47.98,2024-01-11 11:09:00,Savings,Dallas,Healthcare,0,Normal
+869,231.21,2024-01-11 12:20:00,Credit,Los Angeles,Retail,0,Normal
+622,23.94,2024-01-11 12:33:00,Savings,Los Angeles,Travel,0,Normal
+959,232.02,2024-01-11 14:21:00,Checking,Chicago,Electronics,0,Normal
+1132,11189.92,2024-01-11 16:29:00,Credit,Suspicious,Online Gaming,1,Normal
+560,124.95,2024-01-11 16:58:00,Checking,San Jose,Investment,0,Normal
+665,132.3,2024-01-11 20:29:00,Savings,Dallas,Healthcare,0,Normal
+1071,44441.81,2024-01-11 21:21:00,Credit,Offshore,Wire Transfer,1,Anomaly
+477,35.47,2024-01-11 21:25:00,Credit,Philadelphia,Retail,0,Normal
+1072,28446.68,2024-01-11 21:27:00,Checking,Offshore,Wire Transfer,1,Normal
+728,112.7,2024-01-11 21:50:00,Savings,Houston,Investment,0,Normal
+88,86.45,2024-01-11 23:58:00,Savings,Phoenix,Healthcare,0,Normal
+1033,28633.03,2024-01-12 00:22:00,Savings,Unknown,Wire Transfer,1,Normal
+801,71.08,2024-01-12 00:56:00,Checking,Houston,Investment,0,Normal
+31,51.75,2024-01-12 01:09:00,Credit,Phoenix,Grocery,0,Normal
+48,168.21,2024-01-12 01:32:00,Savings,Houston,Healthcare,0,Normal
+904,109.09,2024-01-12 01:32:00,Savings,Phoenix,Utilities,0,Normal
+600,124.39,2024-01-12 01:54:00,Checking,New York,Investment,0,Normal
+409,113.22,2024-01-12 02:34:00,Credit,Philadelphia,Healthcare,0,Normal
+454,73.91,2024-01-12 03:47:00,Credit,Dallas,Investment,0,Normal
+1085,12792.03,2024-01-12 04:02:00,Checking,Offshore,Wire Transfer,1,Normal
+9,55.33,2024-01-12 05:01:00,Checking,Chicago,Education,0,Normal
+86,89.14,2024-01-12 05:31:00,Credit,Los Angeles,Healthcare,0,Normal
+949,56.95,2024-01-12 05:51:00,Checking,Phoenix,Healthcare,0,Normal
+595,152.55,2024-01-12 06:14:00,Checking,San Diego,Grocery,0,Normal
+1055,25623.74,2024-01-12 07:01:00,Credit,Offshore,Foreign Exchange,1,Normal
+939,52.93,2024-01-12 07:19:00,Checking,Dallas,Investment,0,Normal
+816,17.79,2024-01-12 09:19:00,Savings,Houston,Utilities,0,Normal
+884,66.56,2024-01-12 09:38:00,Savings,Phoenix,Education,0,Normal
+165,86.62,2024-01-12 11:04:00,Credit,Houston,Travel,0,Normal
+568,55.1,2024-01-12 11:50:00,Credit,San Jose,Investment,0,Normal
+442,95.66,2024-01-12 12:01:00,Checking,Houston,Grocery,0,Normal
+263,46.12,2024-01-12 12:31:00,Checking,San Diego,Education,0,Normal
+592,57.0,2024-01-12 12:33:00,Credit,Houston,Investment,0,Normal
+783,86.1,2024-01-12 13:13:00,Credit,San Antonio,Utilities,0,Normal
+730,92.03,2024-01-12 13:31:00,Savings,San Diego,Electronics,0,Normal
+608,74.45,2024-01-12 14:56:00,Savings,Dallas,Investment,0,Normal
+182,55.08,2024-01-12 15:50:00,Savings,San Diego,Education,0,Normal
+938,220.05,2024-01-12 16:15:00,Checking,San Antonio,Restaurant,0,Normal
+571,89.63,2024-01-12 16:16:00,Checking,San Diego,Travel,0,Normal
+243,70.23,2024-01-12 16:37:00,Checking,Dallas,Travel,0,Normal
+199,125.87,2024-01-12 17:34:00,Credit,Houston,Utilities,0,Normal
+124,84.27,2024-01-12 18:21:00,Credit,Phoenix,Education,0,Normal
+570,78.99,2024-01-12 18:36:00,Checking,Los Angeles,Healthcare,0,Normal
+1063,44736.43,2024-01-12 18:45:00,Credit,Offshore,Wire Transfer,1,Anomaly
+473,111.44,2024-01-12 18:53:00,Checking,Los Angeles,Electronics,0,Normal
+1146,9749.51,2024-01-12 19:23:00,Credit,Suspicious,Wire Transfer,1,Normal
+770,89.28,2024-01-12 19:59:00,Savings,Chicago,Entertainment,0,Normal
+11,168.98,2024-01-12 21:43:00,Savings,San Antonio,Utilities,0,Normal
+16,102.27,2024-01-12 22:51:00,Savings,New York,Electronics,0,Normal
+540,85.77,2024-01-12 22:52:00,Credit,Dallas,Grocery,0,Normal
+275,80.33,2024-01-12 23:27:00,Credit,New York,Grocery,0,Normal
+1185,4936.94,2024-01-12 23:46:00,Checking,Unknown,Wire Transfer,1,Normal
+736,120.73,2024-01-13 00:12:00,Credit,Houston,Healthcare,0,Normal
+249,53.67,2024-01-13 00:21:00,Checking,Houston,Utilities,0,Normal
+952,268.21,2024-01-13 01:40:00,Checking,San Jose,Utilities,0,Normal
+882,92.11,2024-01-13 03:25:00,Savings,Los Angeles,Healthcare,0,Normal
+1119,11906.8,2024-01-13 03:29:00,Savings,Offshore,Online Gaming,1,Normal
+288,293.17,2024-01-13 04:54:00,Checking,Los Angeles,Restaurant,0,Normal
+375,59.31,2024-01-13 05:36:00,Savings,San Antonio,Entertainment,0,Normal
+1154,1457.73,2024-01-13 05:43:00,Savings,International,Online Gaming,1,Normal
+885,113.15,2024-01-13 06:55:00,Credit,San Antonio,Electronics,0,Normal
+849,106.76,2024-01-13 08:22:00,Savings,Phoenix,Investment,0,Normal
+417,107.01,2024-01-13 09:24:00,Checking,Dallas,Utilities,0,Normal
+396,132.26,2024-01-13 10:02:00,Checking,San Diego,Entertainment,0,Normal
+213,38.64,2024-01-13 10:28:00,Checking,Los Angeles,Healthcare,0,Normal
+561,153.97,2024-01-13 10:33:00,Credit,Chicago,Retail,0,Normal
+659,43.66,2024-01-13 10:44:00,Checking,Philadelphia,Grocery,0,Normal
+304,159.67,2024-01-13 12:03:00,Checking,New York,Retail,0,Normal
+655,99.8,2024-01-13 12:32:00,Credit,Los Angeles,Retail,0,Normal
+256,59.99,2024-01-13 12:49:00,Credit,Chicago,Retail,0,Normal
+264,140.86,2024-01-13 14:20:00,Savings,San Antonio,Travel,0,Normal
+62,113.23,2024-01-13 14:42:00,Savings,New York,Restaurant,0,Normal
+722,76.68,2024-01-13 16:07:00,Credit,New York,Grocery,0,Normal
+603,60.72,2024-01-13 17:31:00,Credit,New York,Restaurant,0,Normal
+598,174.49,2024-01-13 17:32:00,Savings,Chicago,Retail,0,Normal
+170,142.78,2024-01-13 17:59:00,Credit,San Antonio,Healthcare,0,Normal
+663,79.6,2024-01-13 18:30:00,Credit,Houston,Education,0,Normal
+58,301.55,2024-01-13 18:31:00,Savings,Los Angeles,Electronics,0,Normal
+1135,6279.37,2024-01-13 18:52:00,Credit,International,Crypto Exchange,1,Normal
+127,212.58,2024-01-13 18:53:00,Checking,San Diego,Grocery,0,Normal
+652,75.47,2024-01-13 18:57:00,Checking,Phoenix,Electronics,0,Normal
+167,218.84,2024-01-13 19:29:00,Savings,New York,Investment,0,Normal
+66,121.79,2024-01-13 20:05:00,Credit,New York,Travel,0,Normal
+544,141.97,2024-01-13 20:06:00,Savings,Los Angeles,Travel,0,Normal
+1068,28771.41,2024-01-13 20:07:00,Checking,Suspicious,Crypto Exchange,1,Normal
+875,52.51,2024-01-13 21:18:00,Savings,San Jose,Investment,0,Normal
+941,68.61,2024-01-13 22:27:00,Checking,San Antonio,Investment,0,Normal
+484,131.82,2024-01-13 22:50:00,Savings,San Jose,Travel,0,Normal
+637,53.93,2024-01-13 23:46:00,Savings,Los Angeles,Retail,0,Normal
+303,84.44,2024-01-14 00:50:00,Savings,Phoenix,Education,0,Normal
+810,116.94,2024-01-14 01:08:00,Credit,Dallas,Restaurant,0,Normal
+342,110.13,2024-01-14 01:48:00,Checking,Dallas,Grocery,0,Normal
+206,36.93,2024-01-14 01:50:00,Savings,Chicago,Electronics,0,Normal
+54,81.34,2024-01-14 02:00:00,Savings,San Antonio,Grocery,0,Normal
+1040,26240.47,2024-01-14 03:10:00,Checking,Suspicious,Wire Transfer,1,Normal
+533,88.44,2024-01-14 03:25:00,Credit,Dallas,Healthcare,0,Normal
+837,66.98,2024-01-14 03:32:00,Checking,Los Angeles,Healthcare,0,Normal
+758,66.65,2024-01-14 03:44:00,Credit,San Antonio,Restaurant,0,Normal
+462,67.97,2024-01-14 03:53:00,Savings,Philadelphia,Retail,0,Normal
+1106,10845.0,2024-01-14 03:59:00,Credit,Unknown,Online Gaming,1,Normal
+639,72.59,2024-01-14 04:33:00,Credit,Chicago,Entertainment,0,Normal
+1165,4901.49,2024-01-14 04:57:00,Checking,International,Crypto Exchange,1,Normal
+1179,2214.5,2024-01-14 05:33:00,Checking,Suspicious,Foreign Exchange,1,Normal
+1089,26553.1,2024-01-14 06:26:00,Savings,Offshore,Wire Transfer,1,Normal
+1069,27722.37,2024-01-14 07:45:00,Checking,Suspicious,Online Gaming,1,Normal
+449,155.78,2024-01-14 10:11:00,Savings,San Jose,Electronics,0,Normal
+357,99.81,2024-01-14 10:46:00,Credit,San Antonio,Grocery,0,Normal
+343,67.76,2024-01-14 12:26:00,Credit,San Antonio,Electronics,0,Normal
+616,197.6,2024-01-14 14:08:00,Savings,San Jose,Investment,0,Normal
+715,137.08,2024-01-14 14:24:00,Credit,Philadelphia,Investment,0,Normal
+878,52.49,2024-01-14 14:27:00,Checking,Houston,Investment,0,Normal
+974,222.13,2024-01-14 15:53:00,Checking,Chicago,Entertainment,0,Normal
+709,60.09,2024-01-14 16:28:00,Credit,San Diego,Healthcare,0,Normal
+1061,33153.61,2024-01-14 17:21:00,Credit,Unknown,Crypto Exchange,1,Normal
+1137,9353.94,2024-01-14 18:04:00,Credit,Offshore,Online Gaming,1,Normal
+1115,7307.95,2024-01-14 18:21:00,Credit,Unknown,Crypto Exchange,1,Normal
+489,322.42,2024-01-14 18:46:00,Credit,New York,Electronics,0,Normal
+975,42.39,2024-01-14 19:02:00,Savings,San Diego,Healthcare,0,Normal
+983,48.22,2024-01-14 19:17:00,Checking,Philadelphia,Entertainment,0,Normal
+424,210.66,2024-01-14 20:39:00,Checking,Philadelphia,Healthcare,0,Normal
+407,63.56,2024-01-14 20:55:00,Checking,San Jose,Travel,0,Normal
+527,107.87,2024-01-14 22:31:00,Checking,Philadelphia,Investment,0,Normal
+511,35.07,2024-01-14 22:47:00,Checking,Phoenix,Grocery,0,Normal
+34,111.96,2024-01-14 22:59:00,Credit,Philadelphia,Grocery,0,Normal
+612,167.4,2024-01-14 23:29:00,Savings,New York,Healthcare,0,Normal
+591,30.12,2024-01-14 23:34:00,Checking,San Diego,Healthcare,0,Normal
+143,20.06,2024-01-14 23:49:00,Credit,Chicago,Education,0,Normal
+130,175.11,2024-01-15 00:04:00,Checking,Los Angeles,Healthcare,0,Normal
+270,126.33,2024-01-15 00:52:00,Credit,San Diego,Restaurant,0,Normal
+25,164.37,2024-01-15 02:13:00,Credit,San Antonio,Entertainment,0,Normal
+907,76.9,2024-01-15 02:27:00,Checking,Dallas,Healthcare,0,Normal
+168,58.81,2024-01-15 02:54:00,Savings,Dallas,Travel,0,Normal
+874,73.51,2024-01-15 03:20:00,Savings,San Antonio,Investment,0,Normal
+438,74.71,2024-01-15 03:44:00,Savings,San Antonio,Entertainment,0,Normal
+980,133.4,2024-01-15 03:44:00,Checking,Dallas,Healthcare,0,Normal
+804,63.34,2024-01-15 04:11:00,Checking,San Jose,Entertainment,0,Normal
+1082,12175.63,2024-01-15 04:46:00,Credit,Unknown,Wire Transfer,1,Normal
+385,50.39,2024-01-15 05:53:00,Credit,San Jose,Healthcare,0,Normal
+440,128.23,2024-01-15 07:04:00,Checking,Chicago,Investment,0,Normal
+370,265.18,2024-01-15 07:39:00,Savings,Chicago,Electronics,0,Normal
+57,45.36,2024-01-15 09:59:00,Credit,San Jose,Restaurant,0,Normal
+2,48.3,2024-01-15 10:07:00,Savings,Phoenix,Education,0,Normal
+795,30.07,2024-01-15 10:09:00,Savings,Dallas,Retail,0,Normal
+866,160.44,2024-01-15 10:47:00,Credit,Los Angeles,Education,0,Normal
+573,15.79,2024-01-15 11:15:00,Savings,San Antonio,Investment,0,Normal
+684,202.32,2024-01-15 11:35:00,Checking,Dallas,Utilities,0,Normal
+865,59.99,2024-01-15 11:35:00,Savings,Houston,Entertainment,0,Normal
+891,344.39,2024-01-15 12:54:00,Savings,Philadelphia,Entertainment,0,Normal
+1127,6252.21,2024-01-15 13:59:00,Savings,Suspicious,Crypto Exchange,1,Normal
+1126,13845.83,2024-01-15 14:05:00,Savings,Suspicious,Online Gaming,1,Normal
+429,134.79,2024-01-15 14:28:00,Checking,San Jose,Grocery,0,Normal
+350,73.45,2024-01-15 14:55:00,Savings,Houston,Utilities,0,Normal
+232,96.23,2024-01-15 15:52:00,Checking,Philadelphia,Grocery,0,Normal
+731,113.79,2024-01-15 15:53:00,Savings,Chicago,Utilities,0,Normal
+291,102.55,2024-01-15 16:10:00,Credit,Dallas,Travel,0,Normal
+903,166.77,2024-01-15 16:34:00,Savings,San Jose,Utilities,0,Normal
+617,62.63,2024-01-15 16:56:00,Checking,Phoenix,Retail,0,Normal
+1030,42053.92,2024-01-15 16:59:00,Checking,Suspicious,Foreign Exchange,1,Anomaly
+1067,35322.91,2024-01-15 17:20:00,Credit,Suspicious,Wire Transfer,1,Normal
+1160,1082.08,2024-01-15 17:31:00,Credit,International,Wire Transfer,1,Normal
+1076,43313.28,2024-01-15 18:22:00,Checking,Offshore,Wire Transfer,1,Anomaly
+319,211.78,2024-01-15 18:33:00,Savings,Philadelphia,Investment,0,Normal
+37,65.73,2024-01-15 20:23:00,Credit,Philadelphia,Healthcare,0,Normal
+968,115.28,2024-01-15 20:34:00,Checking,San Antonio,Electronics,0,Normal
+465,189.89,2024-01-15 20:46:00,Checking,New York,Entertainment,0,Normal
+144,35.87,2024-01-15 21:22:00,Savings,Los Angeles,Retail,0,Normal
+369,19.8,2024-01-15 21:33:00,Credit,Los Angeles,Utilities,0,Normal
+162,200.01,2024-01-15 21:42:00,Savings,New York,Grocery,0,Normal
+1193,4967.09,2024-01-15 21:51:00,Credit,International,Crypto Exchange,1,Normal
+423,54.67,2024-01-15 22:01:00,Savings,Chicago,Education,0,Normal
+313,56.3,2024-01-15 22:14:00,Savings,New York,Healthcare,0,Normal
+331,111.0,2024-01-15 22:54:00,Credit,Los Angeles,Restaurant,0,Normal
+615,93.49,2024-01-16 00:52:00,Credit,Philadelphia,Travel,0,Normal
+1182,1696.97,2024-01-16 01:09:00,Credit,Suspicious,Crypto Exchange,1,Normal
+1057,35532.89,2024-01-16 01:10:00,Savings,Offshore,Crypto Exchange,1,Normal
+115,111.28,2024-01-16 02:24:00,Checking,New York,Entertainment,0,Normal
+218,118.43,2024-01-16 03:17:00,Savings,Houston,Healthcare,0,Normal
+509,117.89,2024-01-16 03:51:00,Savings,San Jose,Grocery,0,Normal
+840,129.52,2024-01-16 04:40:00,Credit,San Jose,Healthcare,0,Normal
+700,66.83,2024-01-16 04:58:00,Savings,Chicago,Retail,0,Normal
+1084,48969.91,2024-01-16 07:00:00,Credit,Offshore,Online Gaming,1,Anomaly
+333,78.77,2024-01-16 07:03:00,Checking,Phoenix,Retail,0,Normal
+657,138.08,2024-01-16 07:27:00,Checking,Philadelphia,Retail,0,Normal
+274,43.79,2024-01-16 07:37:00,Credit,Los Angeles,Investment,0,Normal
+708,128.81,2024-01-16 07:59:00,Savings,Dallas,Electronics,0,Normal
+797,67.73,2024-01-16 09:28:00,Credit,Philadelphia,Restaurant,0,Normal
+330,120.49,2024-01-16 10:50:00,Savings,Dallas,Electronics,0,Normal
+332,134.64,2024-01-16 10:53:00,Savings,San Jose,Electronics,0,Normal
+106,225.12,2024-01-16 11:04:00,Credit,New York,Education,0,Normal
+1091,11693.69,2024-01-16 12:08:00,Savings,Unknown,Foreign Exchange,1,Normal
+36,106.3,2024-01-16 12:17:00,Savings,Philadelphia,Education,0,Normal
+599,133.91,2024-01-16 12:41:00,Savings,San Jose,Retail,0,Normal
+283,63.01,2024-01-16 12:45:00,Credit,Dallas,Education,0,Normal
+155,21.53,2024-01-16 13:11:00,Checking,San Antonio,Retail,0,Normal
+839,126.07,2024-01-16 13:52:00,Credit,Dallas,Utilities,0,Normal
+33,53.67,2024-01-16 14:07:00,Savings,Chicago,Healthcare,0,Normal
+871,176.15,2024-01-16 14:52:00,Savings,Houston,Utilities,0,Normal
+109,125.9,2024-01-16 15:02:00,Checking,Dallas,Utilities,0,Normal
+92,309.24,2024-01-16 15:32:00,Checking,San Diego,Healthcare,0,Normal
+1047,38246.34,2024-01-16 16:30:00,Savings,International,Wire Transfer,1,Anomaly
+825,88.48,2024-01-16 17:41:00,Credit,San Jose,Investment,0,Normal
+1097,10998.65,2024-01-16 18:30:00,Savings,Suspicious,Foreign Exchange,1,Normal
+121,100.38,2024-01-16 19:55:00,Savings,New York,Grocery,0,Normal
+104,64.61,2024-01-16 19:59:00,Savings,Dallas,Education,0,Normal
+877,55.19,2024-01-16 20:51:00,Checking,Dallas,Electronics,0,Normal
+265,99.73,2024-01-16 21:20:00,Credit,Phoenix,Utilities,0,Normal
+719,119.58,2024-01-16 21:53:00,Credit,Chicago,Electronics,0,Normal
+296,42.66,2024-01-16 22:05:00,Credit,Phoenix,Utilities,0,Normal
+49,68.43,2024-01-16 22:22:00,Checking,Dallas,Travel,0,Normal
+272,150.36,2024-01-16 22:56:00,Savings,Phoenix,Retail,0,Normal
+196,47.23,2024-01-16 23:15:00,Savings,San Jose,Investment,0,Normal
+564,119.24,2024-01-17 00:24:00,Savings,Chicago,Education,0,Normal
+123,45.96,2024-01-17 00:47:00,Checking,Phoenix,Travel,0,Normal
+105,133.4,2024-01-17 01:00:00,Checking,Philadelphia,Entertainment,0,Normal
+1178,4122.22,2024-01-17 01:05:00,Credit,International,Foreign Exchange,1,Normal
+923,74.03,2024-01-17 01:59:00,Credit,Phoenix,Investment,0,Normal
+856,29.91,2024-01-17 02:43:00,Savings,Houston,Travel,0,Normal
+611,84.32,2024-01-17 02:44:00,Checking,San Diego,Grocery,0,Normal
+349,116.27,2024-01-17 02:51:00,Savings,Chicago,Utilities,0,Normal
+26,61.76,2024-01-17 03:49:00,Credit,San Diego,Education,0,Normal
+1038,45668.43,2024-01-17 04:19:00,Credit,International,Wire Transfer,1,Anomaly
+997,154.31,2024-01-17 04:38:00,Checking,Dallas,Grocery,0,Normal
+89,124.53,2024-01-17 05:23:00,Savings,Phoenix,Retail,0,Normal
+479,67.82,2024-01-17 06:16:00,Credit,San Jose,Retail,0,Normal
+363,135.2,2024-01-17 06:21:00,Credit,San Jose,Utilities,0,Normal
+219,85.89,2024-01-17 06:31:00,Credit,San Antonio,Utilities,0,Normal
+553,47.73,2024-01-17 06:39:00,Savings,Los Angeles,Grocery,0,Normal
+742,276.55,2024-01-17 07:10:00,Credit,Philadelphia,Healthcare,0,Normal
+208,73.61,2024-01-17 07:28:00,Checking,New York,Entertainment,0,Normal
+671,80.66,2024-01-17 07:30:00,Savings,Chicago,Investment,0,Normal
+834,27.35,2024-01-17 07:46:00,Credit,San Antonio,Travel,0,Normal
+632,52.23,2024-01-17 08:34:00,Savings,San Jose,Grocery,0,Normal
+457,103.44,2024-01-17 08:53:00,Checking,Los Angeles,Travel,0,Normal
+962,34.26,2024-01-17 09:37:00,Savings,Philadelphia,Grocery,0,Normal
+886,144.7,2024-01-17 09:41:00,Checking,New York,Utilities,0,Normal
+1014,44324.82,2024-01-17 10:20:00,Savings,Suspicious,Wire Transfer,1,Anomaly
+914,238.72,2024-01-17 10:38:00,Checking,Houston,Retail,0,Normal
+472,297.3,2024-01-17 10:58:00,Credit,Chicago,Travel,0,Normal
+371,56.82,2024-01-17 11:18:00,Checking,Philadelphia,Entertainment,0,Normal
+717,105.46,2024-01-17 11:19:00,Credit,Philadelphia,Electronics,0,Normal
+133,52.58,2024-01-17 11:27:00,Checking,Chicago,Retail,0,Normal
+1066,34741.08,2024-01-17 11:40:00,Savings,Offshore,Foreign Exchange,1,Normal
+393,150.67,2024-01-17 11:46:00,Checking,San Antonio,Electronics,0,Normal
+365,196.46,2024-01-17 12:19:00,Credit,Houston,Grocery,0,Normal
+529,21.64,2024-01-17 13:08:00,Savings,Philadelphia,Education,0,Normal
+1094,47949.78,2024-01-17 13:13:00,Checking,International,Wire Transfer,1,Anomaly
+1122,14761.87,2024-01-17 14:10:00,Savings,Unknown,Wire Transfer,1,Normal
+651,23.47,2024-01-17 17:39:00,Credit,San Jose,Investment,0,Normal
+528,136.02,2024-01-17 17:50:00,Savings,Houston,Retail,0,Normal
+815,90.16,2024-01-17 18:13:00,Credit,New York,Travel,0,Normal
+326,72.68,2024-01-17 19:23:00,Checking,Philadelphia,Retail,0,Normal
+1139,11693.09,2024-01-17 20:09:00,Credit,Offshore,Online Gaming,1,Normal
+767,132.66,2024-01-17 20:30:00,Savings,San Jose,Entertainment,0,Normal
+1108,11425.78,2024-01-17 22:06:00,Savings,Unknown,Wire Transfer,1,Normal
+582,76.38,2024-01-17 22:25:00,Checking,Los Angeles,Healthcare,0,Normal
+81,50.85,2024-01-17 23:16:00,Savings,Los Angeles,Retail,0,Normal
+1064,25165.11,2024-01-17 23:20:00,Credit,Unknown,Foreign Exchange,1,Normal
+386,388.64,2024-01-17 23:37:00,Checking,Philadelphia,Grocery,0,Normal
+734,204.15,2024-01-18 00:01:00,Checking,Chicago,Education,0,Normal
+246,22.83,2024-01-18 01:04:00,Credit,Philadelphia,Restaurant,0,Normal
+881,105.12,2024-01-18 01:48:00,Savings,Houston,Education,0,Normal
+117,43.14,2024-01-18 01:53:00,Credit,San Jose,Education,0,Normal
+490,116.72,2024-01-18 01:53:00,Credit,New York,Restaurant,0,Normal
+1131,11030.4,2024-01-18 02:12:00,Credit,Offshore,Wire Transfer,1,Normal
+207,168.81,2024-01-18 02:22:00,Credit,San Jose,Utilities,0,Normal
+1050,30465.43,2024-01-18 02:48:00,Savings,Unknown,Crypto Exchange,1,Normal
+613,60.84,2024-01-18 03:17:00,Savings,San Diego,Education,0,Normal
+761,137.11,2024-01-18 05:17:00,Checking,San Diego,Entertainment,0,Normal
+512,89.18,2024-01-18 06:09:00,Credit,San Antonio,Retail,0,Normal
+418,54.58,2024-01-18 07:07:00,Checking,Chicago,Electronics,0,Normal
+1018,30568.04,2024-01-18 07:34:00,Checking,Offshore,Wire Transfer,1,Normal
+971,57.44,2024-01-18 09:24:00,Credit,Houston,Retail,0,Normal
+141,80.06,2024-01-18 09:30:00,Credit,New York,Retail,0,Normal
+1157,1829.09,2024-01-18 10:56:00,Credit,Unknown,Wire Transfer,1,Normal
+310,89.6,2024-01-18 11:00:00,Savings,New York,Restaurant,0,Normal
+578,69.86,2024-01-18 11:14:00,Checking,Phoenix,Retail,0,Normal
+868,125.29,2024-01-18 11:58:00,Savings,Dallas,Utilities,0,Normal
+963,67.15,2024-01-18 12:34:00,Checking,Philadelphia,Investment,0,Normal
+970,104.98,2024-01-18 13:19:00,Savings,Houston,Travel,0,Normal
+724,92.13,2024-01-18 13:46:00,Credit,Phoenix,Investment,0,Normal
+241,46.63,2024-01-18 14:11:00,Savings,Phoenix,Restaurant,0,Normal
+740,58.33,2024-01-18 14:33:00,Credit,Houston,Electronics,0,Normal
+368,147.07,2024-01-18 14:35:00,Savings,San Jose,Education,0,Normal
+707,38.13,2024-01-18 14:43:00,Savings,Phoenix,Travel,0,Normal
+635,128.34,2024-01-18 16:23:00,Credit,Houston,Education,0,Normal
+683,22.2,2024-01-18 17:13:00,Credit,New York,Retail,0,Normal
+588,37.45,2024-01-18 19:38:00,Checking,San Antonio,Retail,0,Normal
+827,219.78,2024-01-18 20:00:00,Credit,Philadelphia,Electronics,0,Normal
+1172,1394.33,2024-01-18 20:03:00,Savings,Offshore,Online Gaming,1,Normal
+754,50.07,2024-01-18 21:11:00,Checking,San Jose,Entertainment,0,Normal
+587,72.33,2024-01-18 22:28:00,Checking,San Jose,Education,0,Normal
+822,20.94,2024-01-18 22:43:00,Savings,Dallas,Investment,0,Normal
+898,114.28,2024-01-18 23:18:00,Credit,Los Angeles,Restaurant,0,Normal
+855,72.22,2024-01-19 00:48:00,Credit,San Jose,Grocery,0,Normal
+194,90.39,2024-01-19 00:55:00,Savings,San Diego,Grocery,0,Normal
+387,120.05,2024-01-19 01:14:00,Checking,Los Angeles,Travel,0,Normal
+85,71.77,2024-01-19 01:52:00,Credit,San Antonio,Healthcare,0,Normal
+559,118.87,2024-01-19 02:51:00,Credit,Chicago,Healthcare,0,Normal
+987,85.71,2024-01-19 04:18:00,Checking,San Diego,Entertainment,0,Normal
+1032,10228.74,2024-01-19 04:31:00,Checking,Suspicious,Wire Transfer,1,Normal
+285,59.91,2024-01-19 04:46:00,Credit,San Jose,Retail,0,Normal
+1099,28143.16,2024-01-19 04:57:00,Savings,Unknown,Foreign Exchange,1,Normal
+426,131.34,2024-01-19 05:05:00,Checking,Houston,Travel,0,Normal
+420,109.56,2024-01-19 05:32:00,Checking,Philadelphia,Grocery,0,Normal
+255,66.04,2024-01-19 06:02:00,Checking,San Antonio,Healthcare,0,Normal
+674,98.15,2024-01-19 06:09:00,Checking,Houston,Grocery,0,Normal
+18,196.11,2024-01-19 06:20:00,Credit,Phoenix,Grocery,0,Normal
+1184,2766.99,2024-01-19 06:21:00,Checking,Suspicious,Online Gaming,1,Normal
+248,89.25,2024-01-19 07:47:00,Credit,San Antonio,Restaurant,0,Normal
+942,83.27,2024-01-19 07:53:00,Savings,San Antonio,Investment,0,Normal
+772,74.17,2024-01-19 08:35:00,Checking,Houston,Restaurant,0,Normal
+1136,8475.07,2024-01-19 09:34:00,Checking,Offshore,Online Gaming,1,Normal
+74,107.78,2024-01-19 09:43:00,Checking,San Diego,Travel,0,Normal
+1043,22487.85,2024-01-19 10:57:00,Savings,International,Foreign Exchange,1,Normal
+689,127.49,2024-01-19 10:57:00,Checking,San Antonio,Restaurant,0,Normal
+229,116.96,2024-01-19 11:08:00,Savings,Houston,Electronics,0,Normal
+253,436.92,2024-01-19 11:53:00,Credit,Philadelphia,Healthcare,0,Anomaly
+850,102.59,2024-01-19 12:10:00,Credit,Los Angeles,Healthcare,0,Normal
+389,81.31,2024-01-19 12:43:00,Savings,Phoenix,Healthcare,0,Normal
+626,64.63,2024-01-19 12:45:00,Checking,Dallas,Utilities,0,Normal
+496,214.59,2024-01-19 13:33:00,Savings,San Jose,Healthcare,0,Normal
+458,173.94,2024-01-19 13:39:00,Savings,San Jose,Travel,0,Normal
+360,39.26,2024-01-19 14:24:00,Credit,Chicago,Healthcare,0,Normal
+586,53.57,2024-01-19 15:07:00,Checking,Phoenix,Healthcare,0,Normal
+323,102.21,2024-01-19 16:04:00,Checking,Chicago,Electronics,0,Normal
+43,40.58,2024-01-19 16:07:00,Checking,Chicago,Travel,0,Normal
+1188,2127.68,2024-01-19 16:31:00,Credit,International,Wire Transfer,1,Normal
+488,260.78,2024-01-19 17:00:00,Savings,San Diego,Travel,0,Normal
+337,119.37,2024-01-19 18:20:00,Checking,Philadelphia,Grocery,0,Normal
+1169,1305.92,2024-01-19 18:24:00,Savings,International,Online Gaming,1,Normal
+777,292.72,2024-01-19 21:11:00,Savings,Chicago,Utilities,0,Normal
+762,93.71,2024-01-19 21:36:00,Savings,Chicago,Entertainment,0,Normal
+156,37.91,2024-01-19 22:14:00,Checking,Phoenix,Investment,0,Normal
+392,100.86,2024-01-20 00:19:00,Checking,Los Angeles,Entertainment,0,Normal
+789,234.48,2024-01-20 01:38:00,Savings,Chicago,Healthcare,0,Normal
+1092,33189.05,2024-01-20 03:21:00,Credit,Offshore,Foreign Exchange,1,Anomaly
+678,190.33,2024-01-20 03:49:00,Credit,San Antonio,Retail,0,Normal
+999,130.11,2024-01-20 03:59:00,Checking,San Jose,Healthcare,0,Normal
+701,43.12,2024-01-20 05:18:00,Savings,Phoenix,Education,0,Normal
+320,197.34,2024-01-20 05:32:00,Checking,New York,Entertainment,0,Normal
+712,44.86,2024-01-20 06:02:00,Savings,Houston,Investment,0,Normal
+97,71.65,2024-01-20 06:51:00,Savings,San Jose,Utilities,0,Normal
+800,95.16,2024-01-20 07:42:00,Savings,Philadelphia,Electronics,0,Normal
+480,70.92,2024-01-20 08:48:00,Checking,Houston,Retail,0,Normal
+161,97.44,2024-01-20 09:05:00,Checking,San Jose,Healthcare,0,Normal
+1101,11857.01,2024-01-20 09:23:00,Savings,International,Crypto Exchange,1,Normal
+193,45.4,2024-01-20 09:57:00,Savings,San Jose,Grocery,0,Normal
+384,102.05,2024-01-20 10:03:00,Credit,Chicago,Entertainment,0,Normal
+469,260.51,2024-01-20 10:37:00,Credit,Los Angeles,Restaurant,0,Normal
+518,82.38,2024-01-20 10:41:00,Credit,Los Angeles,Restaurant,0,Normal
+112,145.04,2024-01-20 10:48:00,Credit,Dallas,Electronics,0,Normal
+68,71.75,2024-01-20 10:57:00,Credit,San Diego,Travel,0,Normal
+282,229.78,2024-01-20 12:27:00,Savings,San Jose,Travel,0,Normal
+967,123.71,2024-01-20 13:08:00,Checking,San Diego,Restaurant,0,Normal
+1041,10547.94,2024-01-20 14:18:00,Checking,Offshore,Foreign Exchange,1,Normal
+750,64.39,2024-01-20 15:03:00,Checking,Chicago,Travel,0,Normal
+1017,18042.61,2024-01-20 15:59:00,Checking,Unknown,Wire Transfer,1,Anomaly
+250,95.3,2024-01-20 16:06:00,Credit,Los Angeles,Education,0,Normal
+605,140.85,2024-01-20 16:28:00,Credit,Philadelphia,Education,0,Normal
+77,71.69,2024-01-20 16:48:00,Savings,Phoenix,Utilities,0,Normal
+633,46.98,2024-01-20 16:58:00,Checking,Dallas,Education,0,Normal
+1075,47968.03,2024-01-20 17:30:00,Credit,Suspicious,Wire Transfer,1,Anomaly
+231,187.41,2024-01-20 18:57:00,Checking,Houston,Retail,0,Normal
+1062,32779.38,2024-01-20 19:20:00,Checking,International,Crypto Exchange,1,Normal
+696,67.88,2024-01-20 21:10:00,Savings,Philadelphia,Electronics,0,Normal
+1191,2388.25,2024-01-20 21:14:00,Checking,Suspicious,Wire Transfer,1,Normal
+481,107.63,2024-01-20 21:21:00,Savings,San Antonio,Utilities,0,Normal
+737,106.85,2024-01-20 21:38:00,Checking,Houston,Retail,0,Normal
+524,35.37,2024-01-20 21:43:00,Checking,Chicago,Investment,0,Normal
+1015,41350.9,2024-01-20 22:52:00,Credit,International,Wire Transfer,1,Anomaly
+110,347.84,2024-01-20 23:53:00,Savings,New York,Retail,0,Normal
+179,128.09,2024-01-21 00:15:00,Credit,San Diego,Electronics,0,Normal
+328,100.84,2024-01-21 01:12:00,Checking,New York,Entertainment,0,Normal
+22,74.2,2024-01-21 01:19:00,Checking,San Jose,Travel,0,Normal
+8,58.11,2024-01-21 01:23:00,Checking,Dallas,Grocery,0,Normal
+953,185.66,2024-01-21 01:26:00,Checking,Phoenix,Healthcare,0,Normal
+138,35.54,2024-01-21 02:59:00,Savings,Chicago,Electronics,0,Normal
+215,51.55,2024-01-21 03:09:00,Savings,Los Angeles,Travel,0,Normal
+6,66.19,2024-01-21 03:39:00,Credit,Chicago,Education,0,Normal
+1158,3522.32,2024-01-21 03:49:00,Savings,Suspicious,Crypto Exchange,1,Normal
+235,91.54,2024-01-21 03:52:00,Credit,Houston,Healthcare,0,Normal
+300,100.73,2024-01-21 04:09:00,Credit,San Jose,Electronics,0,Normal
+814,67.51,2024-01-21 04:32:00,Savings,Chicago,Grocery,0,Normal
+262,40.72,2024-01-21 05:57:00,Savings,New York,Retail,0,Normal
+585,117.31,2024-01-21 06:08:00,Savings,New York,Grocery,0,Normal
+710,78.26,2024-01-21 07:14:00,Credit,San Antonio,Education,0,Normal
+925,258.41,2024-01-21 07:37:00,Credit,New York,Travel,0,Normal
+1039,43967.16,2024-01-21 07:57:00,Savings,Unknown,Online Gaming,1,Anomaly
+276,213.59,2024-01-21 07:57:00,Checking,San Diego,Electronics,0,Normal
+468,43.13,2024-01-21 08:34:00,Credit,San Jose,Investment,0,Normal
+1105,13816.16,2024-01-21 09:37:00,Credit,Offshore,Wire Transfer,1,Normal
+863,95.5,2024-01-21 11:04:00,Checking,San Diego,Utilities,0,Normal
+523,355.44,2024-01-21 11:34:00,Checking,Houston,Utilities,0,Normal
+1170,4946.92,2024-01-21 11:56:00,Savings,Offshore,Wire Transfer,1,Normal
+302,54.66,2024-01-21 13:08:00,Savings,San Jose,Healthcare,0,Normal
+575,58.05,2024-01-21 16:22:00,Credit,San Diego,Restaurant,0,Normal
+1166,1680.46,2024-01-21 17:04:00,Savings,International,Foreign Exchange,1,Normal
+817,119.03,2024-01-21 17:23:00,Savings,Chicago,Restaurant,0,Normal
+723,113.62,2024-01-21 17:29:00,Credit,San Jose,Retail,0,Normal
+514,64.95,2024-01-21 18:47:00,Savings,Houston,Entertainment,0,Normal
+720,200.62,2024-01-21 20:01:00,Checking,Houston,Electronics,0,Normal
+1011,45538.56,2024-01-21 20:17:00,Checking,Unknown,Crypto Exchange,1,Anomaly
+583,120.58,2024-01-21 21:57:00,Savings,New York,Restaurant,0,Normal
+292,73.11,2024-01-21 21:58:00,Credit,New York,Restaurant,0,Normal
+299,140.51,2024-01-21 22:36:00,Credit,Dallas,Restaurant,0,Normal
+681,108.19,2024-01-22 00:21:00,Savings,San Antonio,Retail,0,Normal
+889,62.13,2024-01-22 00:43:00,Checking,San Antonio,Utilities,0,Normal
+52,68.34,2024-01-22 02:00:00,Savings,San Jose,Travel,0,Normal
+1102,14102.13,2024-01-22 02:25:00,Credit,Suspicious,Online Gaming,1,Normal
+142,108.07,2024-01-22 02:39:00,Credit,Phoenix,Electronics,0,Normal
+309,99.27,2024-01-22 02:58:00,Savings,New York,Restaurant,0,Normal
+391,171.02,2024-01-22 03:18:00,Savings,San Antonio,Entertainment,0,Normal
+437,96.36,2024-01-22 05:12:00,Credit,Dallas,Retail,0,Normal
+1045,10685.99,2024-01-22 07:09:00,Credit,International,Online Gaming,1,Normal
+1104,14535.35,2024-01-22 07:38:00,Credit,Unknown,Wire Transfer,1,Normal
+1029,47342.84,2024-01-22 07:48:00,Credit,Offshore,Online Gaming,1,Anomaly
+893,87.77,2024-01-22 08:25:00,Savings,San Diego,Grocery,0,Normal
+1153,1664.09,2024-01-22 09:24:00,Savings,Offshore,Foreign Exchange,1,Normal
+1078,44545.66,2024-01-22 10:36:00,Checking,Suspicious,Online Gaming,1,Anomaly
+311,39.22,2024-01-22 11:04:00,Checking,Philadelphia,Travel,0,Normal
+927,40.33,2024-01-22 11:57:00,Savings,Houston,Utilities,0,Normal
+933,144.3,2024-01-22 11:57:00,Checking,Philadelphia,Education,0,Normal
+1056,12773.13,2024-01-22 12:52:00,Credit,International,Foreign Exchange,1,Normal
+351,34.62,2024-01-22 13:25:00,Savings,Houston,Electronics,0,Normal
+1145,6681.18,2024-01-22 13:59:00,Checking,International,Wire Transfer,1,Normal
+631,174.9,2024-01-22 14:22:00,Checking,Dallas,Education,0,Normal
+830,124.95,2024-01-22 14:33:00,Credit,Philadelphia,Investment,0,Normal
+345,44.72,2024-01-22 14:55:00,Checking,Chicago,Utilities,0,Normal
+906,251.04,2024-01-22 15:36:00,Savings,San Antonio,Investment,0,Normal
+148,37.71,2024-01-22 15:38:00,Checking,New York,Restaurant,0,Normal
+680,520.1,2024-01-22 16:09:00,Savings,New York,Restaurant,0,Anomaly
+802,217.43,2024-01-22 19:27:00,Checking,New York,Grocery,0,Normal
+732,392.42,2024-01-22 19:32:00,Checking,New York,Grocery,0,Normal
+377,125.68,2024-01-22 20:05:00,Savings,San Diego,Investment,0,Normal
+271,137.85,2024-01-22 21:02:00,Checking,Philadelphia,Investment,0,Normal
+556,78.86,2024-01-22 21:04:00,Credit,San Jose,Healthcare,0,Normal
+892,206.58,2024-01-22 21:20:00,Credit,Philadelphia,Grocery,0,Normal
+532,108.41,2024-01-22 21:42:00,Credit,Houston,Entertainment,0,Normal
+181,101.09,2024-01-22 22:02:00,Savings,San Diego,Education,0,Normal
+76,140.88,2024-01-22 23:40:00,Credit,San Antonio,Investment,0,Normal
+140,67.92,2024-01-23 00:02:00,Credit,San Diego,Restaurant,0,Normal
+1174,3826.7,2024-01-23 00:16:00,Checking,Suspicious,Foreign Exchange,1,Normal
+460,59.44,2024-01-23 00:45:00,Checking,Phoenix,Retail,0,Normal
+463,29.0,2024-01-23 00:53:00,Credit,San Antonio,Electronics,0,Normal
+690,165.12,2024-01-23 01:45:00,Savings,San Diego,Utilities,0,Normal
+197,102.1,2024-01-23 01:48:00,Savings,Dallas,Investment,0,Normal
+381,137.56,2024-01-23 02:50:00,Savings,San Antonio,Healthcare,0,Normal
+87,70.57,2024-01-23 03:54:00,Savings,Los Angeles,Grocery,0,Normal
+535,124.96,2024-01-23 04:10:00,Checking,Chicago,Electronics,0,Normal
+361,59.08,2024-01-23 04:27:00,Savings,Houston,Education,0,Normal
+867,26.13,2024-01-23 05:45:00,Savings,Houston,Healthcare,0,Normal
+1098,16857.37,2024-01-23 05:55:00,Savings,Unknown,Online Gaming,1,Normal
+69,62.99,2024-01-23 06:32:00,Credit,San Jose,Travel,0,Normal
+1081,35265.74,2024-01-23 06:43:00,Savings,Suspicious,Online Gaming,1,Anomaly
+828,94.74,2024-01-23 07:28:00,Credit,Houston,Utilities,0,Normal
+664,86.42,2024-01-23 09:09:00,Savings,San Diego,Entertainment,0,Normal
+399,57.42,2024-01-23 09:43:00,Checking,San Antonio,Entertainment,0,Normal
+240,68.98,2024-01-23 10:10:00,Credit,Dallas,Investment,0,Normal
+870,63.55,2024-01-23 10:54:00,Credit,Chicago,Grocery,0,Normal
+755,37.84,2024-01-23 11:12:00,Credit,San Jose,Restaurant,0,Normal
+520,115.25,2024-01-23 11:19:00,Credit,Los Angeles,Entertainment,0,Normal
+222,573.81,2024-01-23 12:22:00,Savings,Philadelphia,Healthcare,0,Anomaly
+555,219.54,2024-01-23 14:23:00,Savings,Dallas,Retail,0,Normal
+448,76.3,2024-01-23 14:25:00,Checking,San Jose,Investment,0,Normal
+421,24.56,2024-01-23 14:32:00,Credit,San Diego,Retail,0,Normal
+936,85.1,2024-01-23 15:41:00,Checking,San Jose,Travel,0,Normal
+236,115.69,2024-01-23 15:56:00,Checking,Philadelphia,Investment,0,Normal
+1120,10967.76,2024-01-23 16:54:00,Savings,Suspicious,Foreign Exchange,1,Normal
+902,138.32,2024-01-23 17:04:00,Savings,New York,Grocery,0,Normal
+498,51.23,2024-01-23 17:06:00,Checking,Philadelphia,Retail,0,Normal
+464,58.26,2024-01-23 18:39:00,Credit,San Antonio,Grocery,0,Normal
+760,81.64,2024-01-23 18:43:00,Savings,Houston,Electronics,0,Normal
+905,52.25,2024-01-23 20:16:00,Credit,Philadelphia,Entertainment,0,Normal
+125,49.8,2024-01-23 21:45:00,Savings,San Diego,Travel,0,Normal
+158,40.22,2024-01-23 21:50:00,Checking,Houston,Retail,0,Normal
+1031,36970.35,2024-01-23 23:44:00,Credit,Offshore,Crypto Exchange,1,Normal
+111,66.49,2024-01-24 00:23:00,Credit,Dallas,Healthcare,0,Normal
+261,91.68,2024-01-24 00:37:00,Checking,Houston,Restaurant,0,Normal
+41,106.87,2024-01-24 00:43:00,Credit,Dallas,Entertainment,0,Normal
+289,91.04,2024-01-24 00:53:00,Credit,San Antonio,Grocery,0,Normal
+557,108.16,2024-01-24 00:57:00,Credit,San Antonio,Healthcare,0,Normal
+1175,3468.88,2024-01-24 01:27:00,Credit,Suspicious,Wire Transfer,1,Normal
+353,67.93,2024-01-24 01:44:00,Credit,San Jose,Retail,0,Normal
+714,87.86,2024-01-24 02:19:00,Checking,San Antonio,Retail,0,Normal
+7,77.13,2024-01-24 02:21:00,Credit,San Antonio,Grocery,0,Normal
+1037,48446.38,2024-01-24 02:23:00,Checking,Suspicious,Crypto Exchange,1,Anomaly
+618,87.42,2024-01-24 03:11:00,Checking,Philadelphia,Investment,0,Normal
+887,220.05,2024-01-24 03:19:00,Checking,San Jose,Healthcare,0,Normal
+214,118.98,2024-01-24 03:24:00,Checking,San Antonio,Grocery,0,Normal
+1110,12405.65,2024-01-24 04:15:00,Savings,Suspicious,Crypto Exchange,1,Normal
+383,153.09,2024-01-24 05:01:00,Savings,Dallas,Electronics,0,Normal
+404,115.16,2024-01-24 05:54:00,Credit,San Jose,Electronics,0,Normal
+1008,28559.61,2024-01-24 06:04:00,Credit,Suspicious,Foreign Exchange,1,Anomaly
+788,72.02,2024-01-24 06:24:00,Savings,Philadelphia,Travel,0,Normal
+474,142.75,2024-01-24 06:51:00,Credit,Chicago,Utilities,0,Normal
+721,88.56,2024-01-24 07:10:00,Credit,Chicago,Investment,0,Normal
+1192,3188.95,2024-01-24 07:20:00,Savings,Offshore,Wire Transfer,1,Normal
+729,55.8,2024-01-24 08:16:00,Credit,Philadelphia,Entertainment,0,Normal
+763,138.86,2024-01-24 08:58:00,Savings,San Antonio,Healthcare,0,Normal
+398,81.31,2024-01-24 09:04:00,Credit,Houston,Education,0,Normal
+895,84.68,2024-01-24 09:07:00,Checking,Philadelphia,Entertainment,0,Normal
+1156,1622.29,2024-01-24 10:19:00,Credit,Unknown,Crypto Exchange,1,Normal
+1161,4306.47,2024-01-24 10:19:00,Savings,International,Online Gaming,1,Normal
+944,79.68,2024-01-24 11:00:00,Checking,San Antonio,Grocery,0,Normal
+1077,24497.25,2024-01-24 11:12:00,Savings,International,Wire Transfer,1,Normal
+806,71.29,2024-01-24 11:55:00,Checking,Dallas,Education,0,Normal
+1116,14156.72,2024-01-24 12:11:00,Checking,Suspicious,Online Gaming,1,Normal
+890,47.6,2024-01-24 12:41:00,Credit,San Jose,Retail,0,Normal
+915,76.7,2024-01-24 13:18:00,Savings,San Antonio,Utilities,0,Normal
+621,159.46,2024-01-24 13:23:00,Credit,Houston,Entertainment,0,Normal
+507,99.42,2024-01-24 13:31:00,Checking,Houston,Restaurant,0,Normal
+508,71.53,2024-01-24 13:42:00,Credit,Chicago,Education,0,Normal
+821,55.64,2024-01-24 14:42:00,Credit,San Diego,Utilities,0,Normal
+1162,2462.38,2024-01-24 14:47:00,Credit,Unknown,Foreign Exchange,1,Normal
+75,106.63,2024-01-24 14:58:00,Savings,San Jose,Entertainment,0,Normal
+321,65.56,2024-01-24 14:59:00,Credit,Phoenix,Retail,0,Normal
+896,139.02,2024-01-24 15:48:00,Checking,Chicago,Grocery,0,Normal
+596,82.16,2024-01-24 16:03:00,Credit,Los Angeles,Electronics,0,Normal
+325,83.58,2024-01-24 16:09:00,Savings,Phoenix,Education,0,Normal
+525,86.96,2024-01-24 16:09:00,Savings,San Antonio,Retail,0,Normal
+771,139.33,2024-01-24 17:48:00,Savings,Philadelphia,Education,0,Normal
+287,72.46,2024-01-24 17:58:00,Credit,San Diego,Investment,0,Normal
+355,93.29,2024-01-24 18:06:00,Savings,San Diego,Education,0,Normal
+574,298.93,2024-01-24 18:07:00,Savings,Phoenix,Restaurant,0,Normal
+172,44.73,2024-01-24 18:27:00,Credit,San Jose,Investment,0,Normal
+439,122.56,2024-01-24 19:55:00,Savings,San Jose,Healthcare,0,Normal
+380,35.77,2024-01-24 22:08:00,Checking,Chicago,Investment,0,Normal
+220,73.16,2024-01-24 22:31:00,Savings,San Antonio,Healthcare,0,Normal
+501,176.57,2024-01-24 22:58:00,Checking,San Jose,Education,0,Normal
+376,229.12,2024-01-25 00:52:00,Savings,Los Angeles,Grocery,0,Normal
+726,103.92,2024-01-25 00:59:00,Savings,New York,Utilities,0,Normal
+286,94.2,2024-01-25 01:09:00,Savings,Phoenix,Utilities,0,Normal
+642,57.36,2024-01-25 01:11:00,Checking,Philadelphia,Investment,0,Normal
+791,37.08,2024-01-25 01:34:00,Savings,Phoenix,Education,0,Normal
+1095,12424.2,2024-01-25 01:52:00,Savings,Unknown,Crypto Exchange,1,Normal
+335,50.61,2024-01-25 02:31:00,Credit,Houston,Electronics,0,Normal
+17,35.18,2024-01-25 02:36:00,Savings,New York,Education,0,Normal
+223,117.83,2024-01-25 02:40:00,Credit,Dallas,Investment,0,Normal
+366,80.49,2024-01-25 03:09:00,Checking,San Diego,Retail,0,Normal
+1147,5552.23,2024-01-25 03:20:00,Checking,Suspicious,Crypto Exchange,1,Normal
+702,69.35,2024-01-25 04:02:00,Checking,Dallas,Investment,0,Normal
+531,57.0,2024-01-25 06:08:00,Checking,Houston,Healthcare,0,Normal
+820,40.92,2024-01-25 06:30:00,Credit,Houston,Grocery,0,Normal
+623,385.08,2024-01-25 06:51:00,Checking,Dallas,Education,0,Normal
+35,62.67,2024-01-25 07:20:00,Savings,Los Angeles,Grocery,0,Normal
+178,43.68,2024-01-25 07:44:00,Checking,Los Angeles,Education,0,Normal
+954,468.75,2024-01-25 08:00:00,Credit,San Jose,Utilities,0,Normal
+638,51.72,2024-01-25 08:03:00,Checking,New York,Retail,0,Normal
+628,132.6,2024-01-25 08:48:00,Checking,San Diego,Retail,0,Normal
+883,221.15,2024-01-25 10:06:00,Checking,San Jose,Grocery,0,Normal
+803,128.84,2024-01-25 10:36:00,Checking,San Antonio,Investment,0,Normal
+251,47.22,2024-01-25 12:03:00,Savings,Phoenix,Electronics,0,Normal
+1107,13337.92,2024-01-25 12:19:00,Checking,Unknown,Wire Transfer,1,Normal
+756,212.34,2024-01-25 12:50:00,Credit,Chicago,Utilities,0,Normal
+977,167.39,2024-01-25 12:52:00,Savings,Chicago,Retail,0,Normal
+503,82.2,2024-01-25 14:36:00,Credit,Houston,Travel,0,Normal
+607,95.14,2024-01-25 15:55:00,Savings,Philadelphia,Grocery,0,Normal
+12,39.32,2024-01-25 16:26:00,Credit,San Antonio,Education,0,Normal
+422,200.97,2024-01-25 16:32:00,Savings,Philadelphia,Investment,0,Normal
+900,69.76,2024-01-25 17:18:00,Credit,Dallas,Grocery,0,Normal
+101,94.77,2024-01-25 17:22:00,Savings,New York,Grocery,0,Normal
+819,114.2,2024-01-25 17:28:00,Savings,Chicago,Education,0,Normal
+268,44.26,2024-01-25 17:46:00,Credit,San Antonio,Grocery,0,Normal
+1130,11912.12,2024-01-25 19:09:00,Checking,Suspicious,Wire Transfer,1,Normal
+1096,37415.81,2024-01-25 19:10:00,Checking,International,Wire Transfer,1,Anomaly
+234,305.33,2024-01-25 19:58:00,Checking,New York,Investment,0,Normal
+945,175.22,2024-01-25 20:19:00,Savings,New York,Entertainment,0,Normal
+660,80.75,2024-01-25 20:41:00,Savings,Houston,Electronics,0,Normal
+226,116.55,2024-01-25 21:12:00,Savings,San Jose,Healthcare,0,Normal
+1123,11834.54,2024-01-25 21:44:00,Checking,International,Online Gaming,1,Normal
+159,63.53,2024-01-25 21:57:00,Credit,Houston,Grocery,0,Normal
+500,112.92,2024-01-25 22:02:00,Savings,San Antonio,Healthcare,0,Normal
+1197,1505.43,2024-01-25 23:02:00,Checking,Offshore,Foreign Exchange,1,Anomaly
+706,80.54,2024-01-25 23:11:00,Credit,Los Angeles,Healthcare,0,Normal
+151,180.44,2024-01-25 23:12:00,Checking,San Diego,Education,0,Normal
+841,39.19,2024-01-26 01:49:00,Checking,San Jose,Healthcare,0,Normal
+308,113.19,2024-01-26 01:53:00,Savings,San Diego,Electronics,0,Normal
+96,315.69,2024-01-26 02:18:00,Checking,Houston,Restaurant,0,Normal
+150,59.04,2024-01-26 02:49:00,Checking,Chicago,Restaurant,0,Normal
+629,163.53,2024-01-26 02:55:00,Credit,Dallas,Utilities,0,Normal
+1016,27159.4,2024-01-26 03:33:00,Checking,Suspicious,Wire Transfer,1,Anomaly
+1141,8060.51,2024-01-26 03:38:00,Credit,Suspicious,Foreign Exchange,1,Normal
+1190,1762.9,2024-01-26 03:45:00,Savings,Offshore,Wire Transfer,1,Normal
+897,90.57,2024-01-26 04:03:00,Credit,Phoenix,Electronics,0,Normal
+239,54.44,2024-01-26 04:34:00,Checking,Houston,Restaurant,0,Normal
+359,70.54,2024-01-26 05:34:00,Checking,New York,Healthcare,0,Normal
+1026,48690.54,2024-01-26 07:20:00,Savings,Unknown,Crypto Exchange,1,Anomaly
+861,234.37,2024-01-26 07:47:00,Credit,Chicago,Utilities,0,Normal
+21,85.08,2024-01-26 08:25:00,Credit,Dallas,Utilities,0,Normal
+209,57.79,2024-01-26 09:25:00,Credit,Chicago,Investment,0,Normal
+191,103.48,2024-01-26 09:53:00,Credit,Los Angeles,Entertainment,0,Normal
+832,77.99,2024-01-26 10:09:00,Checking,Dallas,Grocery,0,Normal
+1176,1623.92,2024-01-26 10:40:00,Credit,Suspicious,Online Gaming,1,Normal
+364,114.85,2024-01-26 11:24:00,Savings,Phoenix,Travel,0,Normal
+1164,2209.92,2024-01-26 11:55:00,Credit,Offshore,Wire Transfer,1,Normal
+534,353.19,2024-01-26 12:33:00,Credit,San Antonio,Grocery,0,Normal
+450,50.95,2024-01-26 12:39:00,Checking,Dallas,Restaurant,0,Normal
+38,42.34,2024-01-26 12:40:00,Credit,San Diego,Restaurant,0,Normal
+739,83.93,2024-01-26 13:57:00,Checking,San Antonio,Electronics,0,Normal
+354,59.23,2024-01-26 13:58:00,Savings,San Diego,Grocery,0,Normal
+580,28.51,2024-01-26 14:31:00,Checking,San Antonio,Education,0,Normal
+1129,7162.27,2024-01-26 15:04:00,Savings,Offshore,Online Gaming,1,Normal
+188,222.18,2024-01-26 15:20:00,Credit,San Diego,Electronics,0,Normal
+1196,1179.85,2024-01-26 16:01:00,Savings,International,Online Gaming,1,Anomaly
+146,66.42,2024-01-26 16:39:00,Credit,Chicago,Education,0,Normal
+648,31.52,2024-01-26 17:05:00,Credit,San Antonio,Investment,0,Normal
+1010,26609.64,2024-01-26 17:44:00,Savings,International,Online Gaming,1,Anomaly
+4,53.18,2024-01-26 18:22:00,Credit,Dallas,Travel,0,Normal
+757,98.03,2024-01-26 18:54:00,Checking,San Jose,Healthcare,0,Normal
+78,45.46,2024-01-26 19:11:00,Savings,New York,Entertainment,0,Normal
+546,49.55,2024-01-26 20:27:00,Checking,Phoenix,Electronics,0,Normal
+773,105.27,2024-01-26 20:33:00,Savings,Philadelphia,Travel,0,Normal
+212,97.4,2024-01-26 20:49:00,Savings,San Jose,Electronics,0,Normal
+160,150.24,2024-01-26 21:48:00,Credit,Philadelphia,Utilities,0,Normal
+173,169.22,2024-01-26 22:25:00,Checking,Chicago,Education,0,Normal
+1053,26592.6,2024-01-26 22:49:00,Savings,International,Foreign Exchange,1,Normal
+1111,5949.08,2024-01-26 22:51:00,Savings,Suspicious,Online Gaming,1,Normal
+768,46.03,2024-01-26 23:19:00,Checking,Philadelphia,Healthcare,0,Normal
+682,271.91,2024-01-26 23:58:00,Credit,San Antonio,Retail,0,Normal
+703,135.07,2024-01-27 00:57:00,Savings,Philadelphia,Travel,0,Normal
+645,41.51,2024-01-27 01:23:00,Savings,Los Angeles,Grocery,0,Normal
+471,128.33,2024-01-27 01:26:00,Savings,New York,Restaurant,0,Normal
+1090,18166.66,2024-01-27 01:40:00,Checking,Offshore,Online Gaming,1,Normal
+697,91.49,2024-01-27 02:16:00,Credit,San Antonio,Utilities,0,Normal
+685,80.77,2024-01-27 02:51:00,Credit,Philadelphia,Restaurant,0,Normal
+619,112.29,2024-01-27 04:36:00,Savings,Philadelphia,Education,0,Normal
+45,140.06,2024-01-27 04:41:00,Credit,Chicago,Education,0,Normal
+542,63.84,2024-01-27 05:26:00,Checking,Dallas,Entertainment,0,Normal
+921,72.45,2024-01-27 05:40:00,Checking,Los Angeles,Entertainment,0,Normal
+749,289.8,2024-01-27 06:10:00,Savings,Philadelphia,Electronics,0,Normal
+836,53.52,2024-01-27 07:24:00,Savings,New York,Grocery,0,Normal
+579,189.96,2024-01-27 08:44:00,Savings,Houston,Education,0,Normal
+13,17.19,2024-01-27 09:27:00,Savings,Houston,Utilities,0,Normal
+436,98.75,2024-01-27 09:32:00,Savings,Dallas,Travel,0,Normal
+1187,3860.75,2024-01-27 09:34:00,Credit,Offshore,Foreign Exchange,1,Normal
+818,201.49,2024-01-27 10:33:00,Credit,New York,Education,0,Normal
+415,86.16,2024-01-27 13:25:00,Savings,Houston,Retail,0,Normal
+711,189.15,2024-01-27 13:49:00,Checking,New York,Investment,0,Normal
+82,75.03,2024-01-27 16:01:00,Savings,Philadelphia,Travel,0,Normal
+293,28.36,2024-01-27 16:12:00,Credit,San Antonio,Investment,0,Normal
+670,24.88,2024-01-27 16:40:00,Savings,Philadelphia,Education,0,Normal
+227,21.98,2024-01-27 18:48:00,Credit,Phoenix,Education,0,Normal
+443,47.02,2024-01-27 18:50:00,Checking,San Antonio,Healthcare,0,Normal
+433,73.26,2024-01-27 22:32:00,Savings,New York,Retail,0,Normal
+485,58.9,2024-01-27 23:18:00,Credit,San Diego,Education,0,Normal
+995,82.47,2024-01-28 00:03:00,Checking,Dallas,Restaurant,0,Normal
+497,45.5,2024-01-28 00:22:00,Checking,Houston,Investment,0,Normal
+200,156.1,2024-01-28 00:32:00,Checking,San Diego,Restaurant,0,Normal
+157,66.99,2024-01-28 01:01:00,Savings,Chicago,Restaurant,0,Normal
+65,51.73,2024-01-28 01:41:00,Credit,New York,Utilities,0,Normal
+413,21.01,2024-01-28 02:20:00,Savings,New York,Healthcare,0,Normal
+95,56.49,2024-01-28 03:18:00,Credit,Dallas,Utilities,0,Normal
+277,59.36,2024-01-28 03:25:00,Checking,Chicago,Education,0,Normal
+650,38.97,2024-01-28 04:12:00,Checking,Phoenix,Grocery,0,Normal
+163,101.21,2024-01-28 04:32:00,Credit,Houston,Grocery,0,Normal
+279,118.28,2024-01-28 04:40:00,Credit,San Jose,Utilities,0,Normal
+960,46.49,2024-01-28 04:51:00,Credit,San Jose,Education,0,Normal
+704,82.9,2024-01-28 05:14:00,Savings,Dallas,Investment,0,Normal
+152,96.8,2024-01-28 06:56:00,Checking,Philadelphia,Travel,0,Normal
+411,345.39,2024-01-28 07:10:00,Checking,Chicago,Retail,0,Normal
+482,126.44,2024-01-28 07:48:00,Credit,Philadelphia,Healthcare,0,Normal
+453,32.53,2024-01-28 10:11:00,Savings,Dallas,Grocery,0,Normal
+1027,43066.08,2024-01-28 10:54:00,Checking,Offshore,Online Gaming,1,Anomaly
+981,113.02,2024-01-28 11:31:00,Savings,San Antonio,Electronics,0,Normal
+67,151.52,2024-01-28 11:43:00,Credit,New York,Healthcare,0,Normal
+358,185.23,2024-01-28 12:17:00,Checking,Los Angeles,Travel,0,Normal
+982,236.38,2024-01-28 12:30:00,Credit,San Antonio,Utilities,0,Normal
+1194,3656.81,2024-01-28 13:26:00,Checking,International,Online Gaming,1,Normal
+1151,3119.53,2024-01-28 13:55:00,Savings,Offshore,Wire Transfer,1,Normal
+505,107.84,2024-01-28 14:07:00,Checking,Chicago,Utilities,0,Normal
+807,163.96,2024-01-28 14:14:00,Credit,San Antonio,Electronics,0,Normal
+872,270.52,2024-01-28 14:24:00,Checking,Phoenix,Education,0,Normal
+676,107.76,2024-01-28 14:29:00,Checking,San Diego,Restaurant,0,Normal
+646,30.58,2024-01-28 14:37:00,Savings,Phoenix,Healthcare,0,Normal
+23,143.89,2024-01-28 14:59:00,Savings,Philadelphia,Utilities,0,Normal
+14,170.38,2024-01-28 15:14:00,Savings,Dallas,Electronics,0,Normal
+131,72.41,2024-01-28 15:18:00,Savings,Philadelphia,Entertainment,0,Normal
+297,30.3,2024-01-28 16:04:00,Savings,New York,Healthcare,0,Normal
+260,149.79,2024-01-28 16:24:00,Checking,Dallas,Healthcare,0,Normal
+491,149.01,2024-01-28 16:49:00,Credit,San Diego,Education,0,Normal
+478,144.51,2024-01-28 17:20:00,Checking,Dallas,Travel,0,Normal
+1114,5665.28,2024-01-28 18:48:00,Savings,Offshore,Online Gaming,1,Normal
+198,247.64,2024-01-28 19:23:00,Checking,San Jose,Education,0,Normal
+257,69.41,2024-01-28 19:27:00,Savings,San Diego,Restaurant,0,Normal
+998,41.6,2024-01-28 19:28:00,Savings,New York,Grocery,0,Normal
+748,27.01,2024-01-28 19:46:00,Checking,Phoenix,Travel,0,Normal
+10,157.68,2024-01-28 20:32:00,Savings,Los Angeles,Restaurant,0,Normal
+699,60.48,2024-01-28 20:46:00,Savings,Houston,Retail,0,Normal
+548,83.68,2024-01-28 21:42:00,Savings,San Antonio,Travel,0,Normal
+826,82.09,2024-01-28 22:07:00,Checking,Phoenix,Entertainment,0,Normal
+352,57.14,2024-01-28 22:13:00,Savings,Chicago,Retail,0,Normal
+986,25.94,2024-01-28 22:18:00,Credit,Philadelphia,Investment,0,Normal
+812,87.21,2024-01-29 00:54:00,Checking,Dallas,Retail,0,Normal
+1079,14402.53,2024-01-29 00:55:00,Checking,Unknown,Crypto Exchange,1,Normal
+910,111.55,2024-01-29 01:34:00,Credit,San Antonio,Grocery,0,Normal
+94,344.02,2024-01-29 02:19:00,Checking,Houston,Grocery,0,Normal
+743,96.43,2024-01-29 02:58:00,Savings,Chicago,Utilities,0,Normal
+324,253.55,2024-01-29 03:09:00,Savings,Philadelphia,Entertainment,0,Normal
+63,67.12,2024-01-29 03:12:00,Checking,Philadelphia,Grocery,0,Normal
+60,122.5,2024-01-29 03:29:00,Checking,Houston,Entertainment,0,Normal
+1138,8959.62,2024-01-29 04:19:00,Savings,International,Wire Transfer,1,Normal
+247,97.07,2024-01-29 04:37:00,Savings,New York,Travel,0,Normal
+984,103.99,2024-01-29 05:31:00,Savings,Los Angeles,Investment,0,Normal
+180,172.67,2024-01-29 06:04:00,Checking,New York,Utilities,0,Normal
+913,78.66,2024-01-29 06:40:00,Credit,Los Angeles,Electronics,0,Normal
+499,91.18,2024-01-29 07:00:00,Credit,Phoenix,Travel,0,Normal
+502,122.8,2024-01-29 07:53:00,Credit,San Antonio,Utilities,0,Normal
+1171,2085.46,2024-01-29 08:32:00,Savings,Offshore,Wire Transfer,1,Normal
+1195,1796.98,2024-01-29 08:39:00,Checking,Unknown,Online Gaming,1,Normal
+149,399.69,2024-01-29 09:54:00,Checking,Philadelphia,Healthcare,0,Normal
+985,30.24,2024-01-29 10:01:00,Savings,Dallas,Education,0,Normal
+687,115.85,2024-01-29 10:32:00,Checking,Phoenix,Healthcare,0,Normal
+565,206.97,2024-01-29 10:39:00,Checking,Phoenix,Entertainment,0,Normal
+694,202.7,2024-01-29 10:51:00,Savings,New York,Travel,0,Normal
+686,27.97,2024-01-29 11:06:00,Savings,Los Angeles,Retail,0,Normal
+668,178.52,2024-01-29 11:38:00,Checking,Houston,Electronics,0,Normal
+713,99.37,2024-01-29 11:52:00,Savings,San Antonio,Healthcare,0,Normal
+205,81.06,2024-01-29 12:11:00,Savings,Phoenix,Investment,0,Normal
+1073,47597.27,2024-01-29 12:17:00,Checking,International,Online Gaming,1,Anomaly
+184,96.39,2024-01-29 13:27:00,Credit,Houston,Electronics,0,Normal
+441,51.65,2024-01-29 14:03:00,Credit,Phoenix,Retail,0,Normal
+787,38.7,2024-01-29 14:13:00,Savings,San Jose,Investment,0,Normal
+39,120.33,2024-01-29 14:44:00,Checking,San Antonio,Restaurant,0,Normal
+935,57.37,2024-01-29 14:56:00,Savings,Philadelphia,Investment,0,Normal
+487,149.82,2024-01-29 15:39:00,Savings,San Antonio,Restaurant,0,Normal
+347,162.19,2024-01-29 16:25:00,Savings,New York,Education,0,Normal
+137,61.92,2024-01-29 16:45:00,Savings,New York,Retail,0,Normal
+516,56.18,2024-01-29 17:01:00,Checking,Philadelphia,Entertainment,0,Normal
+30,87.83,2024-01-29 17:25:00,Savings,San Diego,Grocery,0,Normal
+116,207.66,2024-01-29 17:45:00,Savings,San Diego,Retail,0,Normal
+515,167.56,2024-01-29 18:35:00,Credit,Dallas,Travel,0,Normal
+201,20.67,2024-01-29 18:42:00,Checking,San Jose,Education,0,Normal
+809,169.49,2024-01-29 19:49:00,Checking,Los Angeles,Entertainment,0,Normal
+551,114.96,2024-01-29 20:10:00,Checking,San Jose,Travel,0,Normal
+3,83.41,2024-01-29 20:38:00,Savings,Los Angeles,Healthcare,0,Normal
+597,74.47,2024-01-29 21:24:00,Checking,Chicago,Entertainment,0,Normal
+625,81.12,2024-01-29 21:52:00,Savings,San Jose,Utilities,0,Normal
+494,131.34,2024-01-29 22:38:00,Credit,San Diego,Retail,0,Normal
+990,384.47,2024-01-29 23:14:00,Savings,New York,Entertainment,0,Normal
+129,208.71,2024-01-30 00:27:00,Checking,Philadelphia,Restaurant,0,Normal
+305,319.33,2024-01-30 00:48:00,Savings,Philadelphia,Utilities,0,Normal
+210,81.38,2024-01-30 01:50:00,Savings,Dallas,Utilities,0,Normal
+32,182.04,2024-01-30 03:13:00,Checking,Chicago,Investment,0,Normal
+434,292.6,2024-01-30 03:21:00,Savings,Los Angeles,Utilities,0,Normal
+416,175.39,2024-01-30 03:24:00,Checking,New York,Retail,0,Normal
+190,199.57,2024-01-30 04:22:00,Checking,Dallas,Healthcare,0,Normal
+614,186.42,2024-01-30 04:24:00,Savings,Dallas,Healthcare,0,Normal
+569,152.98,2024-01-30 05:33:00,Credit,Los Angeles,Retail,0,Normal
+126,67.96,2024-01-30 05:37:00,Checking,San Antonio,Travel,0,Normal
+492,295.58,2024-01-30 05:50:00,Credit,Houston,Investment,0,Normal
+1117,11163.14,2024-01-30 05:52:00,Credit,International,Crypto Exchange,1,Normal
+28,65.01,2024-01-30 05:53:00,Checking,Philadelphia,Travel,0,Normal
+79,40.93,2024-01-30 06:01:00,Credit,Dallas,Education,0,Normal
+522,100.99,2024-01-30 08:33:00,Checking,Philadelphia,Travel,0,Normal
+102,63.56,2024-01-30 09:34:00,Credit,Dallas,Electronics,0,Normal
+329,119.11,2024-01-30 10:42:00,Savings,San Antonio,Restaurant,0,Normal
+346,86.24,2024-01-30 10:47:00,Savings,Chicago,Restaurant,0,Normal
+406,72.53,2024-01-30 11:49:00,Checking,Phoenix,Travel,0,Normal
+698,95.69,2024-01-30 11:55:00,Credit,San Diego,Travel,0,Normal
+824,49.21,2024-01-30 12:51:00,Savings,Philadelphia,Electronics,0,Normal
+547,123.42,2024-01-30 13:01:00,Savings,Houston,Retail,0,Normal
+965,42.22,2024-01-30 13:05:00,Savings,Chicago,Healthcare,0,Normal
+716,150.37,2024-01-30 13:06:00,Checking,San Diego,Education,0,Normal
+186,52.58,2024-01-30 13:51:00,Checking,Dallas,Restaurant,0,Normal
+134,51.49,2024-01-30 13:52:00,Savings,Philadelphia,Utilities,0,Normal
+15,43.07,2024-01-30 14:50:00,Credit,San Diego,Retail,0,Normal
+486,87.74,2024-01-30 16:44:00,Checking,San Antonio,Healthcare,0,Normal
+312,160.43,2024-01-30 16:47:00,Credit,San Jose,Utilities,0,Normal
+224,48.53,2024-01-30 16:48:00,Checking,Los Angeles,Restaurant,0,Normal
+833,276.38,2024-01-30 17:17:00,Credit,San Jose,Entertainment,0,Normal
+451,210.0,2024-01-30 17:24:00,Credit,San Jose,Healthcare,0,Normal
+932,91.88,2024-01-30 19:07:00,Credit,San Diego,Grocery,0,Normal
+225,82.05,2024-01-30 19:47:00,Savings,Chicago,Entertainment,0,Normal
+606,33.95,2024-01-30 20:43:00,Credit,Houston,Retail,0,Normal
+1005,39913.54,2024-01-30 20:53:00,Savings,Unknown,Wire Transfer,1,Anomaly
+1133,14407.73,2024-01-30 21:44:00,Credit,Unknown,Crypto Exchange,1,Normal
+602,162.37,2024-01-30 22:12:00,Credit,Los Angeles,Investment,0,Normal
+937,137.38,2024-01-30 22:15:00,Checking,Dallas,Restaurant,0,Normal
+956,45.71,2024-01-30 22:25:00,Checking,San Jose,Entertainment,0,Normal
+322,165.42,2024-01-30 22:41:00,Savings,San Diego,Grocery,0,Normal
+782,122.42,2024-01-30 22:41:00,Checking,San Diego,Investment,0,Normal
+50,75.1,2024-01-30 23:36:00,Savings,Dallas,Healthcare,0,Normal
+964,59.52,2024-01-30 23:41:00,Savings,Chicago,Utilities,0,Normal
+1148,14423.83,2024-01-30 23:43:00,Savings,Unknown,Foreign Exchange,1,Normal
+526,176.61,2024-01-30 23:58:00,Savings,Los Angeles,Electronics,0,Normal
