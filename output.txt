@@ -1,0 +1,21 @@
+Isolation Forest Report:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00     35638
+         1.0       0.57      0.34      0.43       103
+
+    accuracy                           1.00     35741
+   macro avg       0.79      0.67      0.71     35741
+weighted avg       1.00      1.00      1.00     35741
+
+
+Autoencoder Report:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00     35638
+         1.0       0.02      0.01      0.01       103
+
+    accuracy                           1.00     35741
+   macro avg       0.51      0.50      0.50     35741
+weighted avg       0.99      1.00      0.99     35741
+
